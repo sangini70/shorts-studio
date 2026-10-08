@@ -1,0 +1,622 @@
+Create a 10-second surreal retro-corporate editorial animation.
+
+CORE CONCEPT:
+
+An enormous office containing hundreds of identical cubicles
+extends infinitely into the distance.
+
+Employees sit silently at desks,
+typing, answering telephones and staring at old computer monitors.
+
+The camera gradually discovers something impossible:
+
+every computer monitor contains ANOTHER version
+of the exact same office.
+
+The camera enters one monitor,
+revealing another office,
+then another,
+then another.
+
+An infinite corporate loop.
+
+At the very end,
+one employee suddenly turns around
+and looks directly at the viewer.
+
+Then every employee turns around at once.
+
+CUT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Preserve the exact graphic language of the reference.
+
+Retro corporate editorial collage.
+
+1980s–1990s office photography transformed through:
+coarse newspaper halftone,
+screen printing,
+photocopier texture,
+risograph printing,
+posterized photography,
+analog magazine reproduction.
+
+Extremely limited three-color palette:
+
+SATURATED ELECTRIC BLUE
+CORAL-ORANGE / VERMILION RED
+DEEP BLACK
+
+with tiny amounts of dirty white.
+
+NO additional colors.
+
+Blue structural walls and cubicle dividers.
+
+Coral-orange cubicle interiors.
+
+Employees and office equipment rendered mostly
+in black-and-white halftone.
+
+Visible paper fibers.
+Visible printing dots.
+Ink imperfections.
+Slight registration errors.
+Rough analog texture.
+
+The image must remain GRAPHIC and FLAT.
+
+Do NOT transform this into a realistic office.
+
+Every frame should look like
+an animated vintage editorial poster.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:00–0:01.5 — THE OFFICE
+━━━━━━━━━━━━━━━━━━━━━━
+
+EXTREME WIDE SHOT.
+
+Hundreds of office cubicles stacked across the frame.
+
+The nearest workers are large.
+
+Rows become progressively smaller
+toward the top of the image.
+
+Everyone performs tiny repetitive movements.
+
+typing.
+
+clicking.
+
+writing.
+
+telephone.
+
+typing.
+
+clicking.
+
+writing.
+
+telephone.
+
+The movements are slightly mechanical
+and loop every few frames.
+
+SOUND:
+
+hundreds of keyboards.
+
+CLACK CLACK CLACK.
+
+Telephone buttons.
+
+BEEP.
+
+Printer mechanisms.
+
+KRRR—
+
+Fluorescent electrical hum.
+
+A minimal industrial rhythm slowly emerges
+from these office sounds.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:01.5–0:02.5 — PHONE
+━━━━━━━━━━━━━━━━━━━━━━
+
+HARD CUT.
+
+CLOSE-UP.
+
+One anonymous male employee.
+
+Black-and-white halftone face.
+
+White shirt.
+
+Black tie.
+
+Old beige-black office telephone beside him.
+
+RING.
+
+He stops typing.
+
+RING.
+
+He slowly reaches toward the phone.
+
+CUT TO EXTREME CLOSE-UP.
+
+Hand lifts receiver.
+
+CLICK.
+
+He listens.
+
+Silence.
+
+Then a quiet synthetic voice through the telephone:
+
+"Keep working."
+
+CLICK.
+
+The call disconnects.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:02.5–0:03.7 — SOMETHING WRONG
+━━━━━━━━━━━━━━━━━━━━━━
+
+MEDIUM SHOT.
+
+The employee slowly puts the receiver down.
+
+Everyone around him continues typing.
+
+CLACK CLACK CLACK CLACK.
+
+He looks left.
+
+CUT.
+
+A woman typing.
+
+Perfect repeating movement.
+
+He looks right.
+
+CUT.
+
+Another man typing.
+
+Exactly the SAME rhythm.
+
+CUT BACK.
+
+The employee looks toward his computer monitor.
+
+The screen flickers.
+
+BZZT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:03.7–0:05.0 — SCREEN
+━━━━━━━━━━━━━━━━━━━━━━
+
+CLOSE-UP OF CRT MONITOR.
+
+Instead of software—
+
+the monitor displays
+THE EXACT SAME OFFICE.
+
+Hundreds of blue and coral cubicles.
+
+Tiny employees.
+
+The same composition.
+
+Camera slowly pushes toward the monitor.
+
+Closer.
+
+Closer.
+
+Until the black screen border fills the frame.
+
+BZZZZZZT—
+
+Camera PASSES THROUGH THE SCREEN.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:05.0–0:06.0 — ANOTHER OFFICE
+━━━━━━━━━━━━━━━━━━━━━━
+
+MATCH CUT.
+
+We are suddenly inside
+ANOTHER IDENTICAL OFFICE.
+
+Same employees.
+
+Same desks.
+
+Same blue walls.
+
+Same coral cubicles.
+
+Same typing rhythm.
+
+But now the halftone pattern is slightly larger
+and rougher.
+
+Camera immediately moves toward
+another employee's CRT monitor.
+
+Inside that monitor:
+
+ANOTHER OFFICE.
+
+PUSH IN.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:06.0–0:07.0 — INFINITE ZOOM
+━━━━━━━━━━━━━━━━━━━━━━
+
+Rapid recursive sequence.
+
+MONITOR.
+
+OFFICE.
+
+MONITOR.
+
+OFFICE.
+
+MONITOR.
+
+OFFICE.
+
+Each transition becomes faster.
+
+0.30 sec.
+
+0.20 sec.
+
+0.15 sec.
+
+0.10 sec.
+
+The same blue-and-coral geometry
+repeats infinitely.
+
+Office sounds accelerate:
+
+CLACK.
+
+CLACK.
+
+CLACK.
+
+RING.
+
+BEEP.
+
+CLACK.
+
+RING.
+
+BEEP.
+
+The sounds become an electronic beat.
+
+Visual printing texture becomes increasingly distorted.
+
+Halftone dots enlarge.
+
+Registration shifts.
+
+Coral layers move slightly away from black layers.
+
+Blue layers jitter.
+
+Then—
+
+COMPLETE SILENCE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:07.0–0:08.0 — ONE PERSON
+━━━━━━━━━━━━━━━━━━━━━━
+
+EXTREME WIDE SHOT.
+
+Back to the original gigantic office.
+
+Hundreds of employees.
+
+Nobody moves.
+
+Perfect stillness.
+
+One employee in the middle distance
+slowly stops facing his monitor.
+
+He turns his chair.
+
+SQUEAK.
+
+He faces directly toward camera.
+
+His face is almost unreadable
+because of coarse halftone.
+
+He stares.
+
+No expression.
+
+Hold.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:08.0–0:09.0 — EVERYONE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Suddenly—
+
+EVERY SINGLE EMPLOYEE
+turns toward camera
+at EXACTLY THE SAME TIME.
+
+Hundreds of chairs rotate simultaneously.
+
+SQUEEEEEAK.
+
+No one speaks.
+
+No one blinks.
+
+Rows and rows of black-and-white faces
+stare directly at the viewer.
+
+The perspective makes the faces repeat
+far into the distance.
+
+The nearest telephone begins ringing.
+
+RING.
+
+Nobody answers.
+
+RING.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:09.0–0:10.0 — RESET
+━━━━━━━━━━━━━━━━━━━━━━
+
+The CRT monitor in the foreground flashes white.
+
+BZZT.
+
+For one frame:
+
+the entire image becomes
+a harsh photocopied black-and-white version.
+
+FLASH.
+
+Return to blue and coral.
+
+Instantly—
+
+EVERY EMPLOYEE turns back toward their computer.
+
+Typing resumes simultaneously.
+
+CLACK CLACK CLACK CLACK CLACK.
+
+Exactly as at the beginning.
+
+Camera slowly pulls backward.
+
+The office becomes smaller.
+
+More rows appear.
+
+Then more.
+
+Then more.
+
+Revealing that the office extends
+far beyond what we originally saw.
+
+Hundreds become thousands.
+
+Thousands become tiny printed dots.
+
+One final telephone ring:
+
+RING.
+
+HARD CUT TO BLUE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+ANIMATION LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━
+
+CRITICAL:
+
+This is NOT conventional character animation.
+
+Animate vintage PHOTOGRAPHIC CUTOUTS.
+
+Employees should move through:
+
+limited-frame loops,
+cut-paper articulation,
+mechanical head turns,
+repeated typing cycles,
+small photographic pose changes.
+
+Slightly stiff motion is desirable.
+
+Movement should resemble:
+animated magazine photography,
+stop-motion collage,
+photocopied photographic cutouts,
+experimental editorial animation.
+
+Do not smooth the people into realistic video.
+
+The coarse halftone printing MUST remain visible
+on faces, clothing and objects during movement.
+
+━━━━━━━━━━━━━━━━━━━━━━
+INFINITE ZOOM LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━
+
+The recursive monitor sequence is the visual centerpiece.
+
+Every CRT screen contains
+the SAME office composition.
+
+Camera enters screen →
+
+identical office →
+
+another monitor →
+
+identical office →
+
+another monitor.
+
+Transitions must align geometrically.
+
+The audience should feel trapped inside
+an infinitely recursive corporate system.
+
+Do NOT use generic tunnel effects.
+
+The recursion must be created
+from the actual office and computer screens.
+
+━━━━━━━━━━━━━━━━━━━━━━
+CAMERA
+━━━━━━━━━━━━━━━━━━━━━━
+
+Use:
+
+extreme wide symmetrical compositions,
+medium employee shots,
+telephone macro,
+CRT close-up,
+slow push-ins,
+recursive screen transitions,
+final enormous pull-back.
+
+Mostly rigid camera geometry.
+
+No handheld movement.
+
+No cinematic depth of field.
+
+No lens flare.
+
+Maintain the flat editorial-poster appearance.
+
+━━━━━━━━━━━━━━━━━━━━━━
+AUDIO
+━━━━━━━━━━━━━━━━━━━━━━
+
+NO conventional musical score at first.
+
+Build the rhythm entirely from office sounds:
+
+keyboard clacks,
+telephone rings,
+printer mechanisms,
+CRT electrical buzz,
+mouse clicks,
+chair squeaks,
+fluorescent hum.
+
+Gradually transform these sounds
+into a minimalist industrial electronic rhythm.
+
+During the recursive zoom:
+the rhythm accelerates dramatically.
+
+At 7 seconds:
+ABSOLUTE SILENCE.
+
+Then:
+
+one chair squeak.
+
+Hundreds of chairs squeak simultaneously.
+
+Final reset:
+
+all keyboards restart on exactly the same beat.
+
+Only one spoken sentence in the entire film:
+
+Telephone voice:
+"Keep working."
+
+Voice should be:
+quiet,
+emotionless,
+synthetic,
+slightly degraded through an old telephone speaker.
+
+━━━━━━━━━━━━━━━━━━━━━━
+COLOR CONSISTENCY
+━━━━━━━━━━━━━━━━━━━━━━
+
+ABSOLUTELY maintain only:
+
+ELECTRIC BLUE,
+CORAL-ORANGE,
+BLACK,
+DIRTY WHITE.
+
+Never introduce realistic office colors.
+
+Computer monitors remain mostly black
+except when displaying the recursive office.
+
+The palette must remain identical
+through every cut.
+
+━━━━━━━━━━━━━━━━━━━━━━
+STRICTLY AVOID
+━━━━━━━━━━━━━━━━━━━━━━
+
+photorealistic modern office,
+realistic skin tones,
+modern laptops,
+smartphones,
+glass corporate skyscrapers,
+3D CGI,
+smooth vector animation,
+clean digital gradients,
+cinematic bokeh,
+lens flare,
+additional saturated colors,
+cartoon characters,
+anime,
+futuristic holograms,
+robots,
+visible sci-fi technology,
+random typography,
+subtitles,
+logos,
+floating text,
+exaggerated facial expressions.

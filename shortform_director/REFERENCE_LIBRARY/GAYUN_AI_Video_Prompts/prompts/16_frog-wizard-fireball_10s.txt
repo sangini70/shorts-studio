@@ -1,0 +1,364 @@
+Create a 10-second narrative pixel-art animated short.
+
+CORE STYLE:
+Authentic hand-crafted 16-bit pixel art animation.
+
+Large clearly visible square pixels.
+Low-resolution retro game aesthetic.
+Limited color palette.
+Hard pixel edges.
+No anti-aliasing.
+No smooth vector edges.
+No realistic rendering.
+
+Dark burgundy-black shadows,
+multiple saturated greens for the frog,
+bright yellow, orange and amber fire,
+deep blue and cyan water.
+
+Every frame must look like an actual sprite-based
+1990s console game animation.
+
+Characters remain consistently pixelated during movement.
+
+NO typography.
+NO subtitles.
+NO UI.
+NO health bars.
+NO written text.
+
+────────────────────────────
+0:00–0:02.5 — THE SPELL
+
+WIDE SHOT.
+
+Nighttime pixel-art forest.
+
+A tiny green frog wizard stands alone
+on a dark tree stump.
+
+Small glowing fireflies move through the background.
+
+The frog wears a tiny dark-purple wizard hat.
+
+He dramatically raises both hands.
+
+Camera CUTS closer.
+
+MEDIUM SHOT.
+
+The frog closes his eyes and concentrates.
+
+FROG, confidently:
+
+"Okay... tiny fireball."
+
+Cute but slightly raspy male cartoon voice.
+
+A tiny orange spark appears between his hands.
+
+PING.
+
+The spark grows.
+
+The frog opens one eye.
+
+He smiles.
+
+FROG:
+
+"Yes!"
+
+Retro chiptune music begins.
+
+────────────────────────────
+0:02.5–0:04.5 — TOO MUCH
+
+CLOSE-UP.
+
+The tiny fireball suddenly expands.
+
+WHOOM!
+
+It becomes a gigantic pixelated flame.
+
+CUT.
+
+The frog is now completely surrounded by fire.
+
+Exactly like a dramatic retro-game sprite:
+green frog in foreground,
+huge yellow-orange pixel flames behind him.
+
+His eyes become enormous.
+
+One beat of complete silence.
+
+FROG:
+
+"...oh."
+
+Suddenly his wizard hat catches fire.
+
+FROG:
+
+"OH! OH! OH!"
+
+He frantically waves both arms.
+
+Rapid sprite animation.
+
+The fire flickers wildly.
+
+8-bit alarm-like percussion enters the soundtrack.
+
+────────────────────────────
+0:04.5–0:06.5 — PANIC
+
+SIDE-SCROLLING SHOT.
+
+The burning frog runs across the forest.
+
+His tiny legs move absurdly fast.
+
+A trail of pixel flames follows him.
+
+FROG:
+
+"WATER! WATER!"
+
+Camera tracks sideways like a classic platform game.
+
+He jumps over a rock.
+
+Nearly hits a tree.
+
+Changes direction.
+
+Runs again.
+
+Fast comedic chiptune percussion.
+
+Tiny retro footsteps:
+
+TIK-TIK-TIK-TIK-TIK.
+
+Fire:
+
+FWOOSH—FWOOSH.
+
+Suddenly he sees a small pond.
+
+His eyes widen.
+
+────────────────────────────
+0:06.5–0:08 — JUMP
+
+FRONTAL CLOSE-UP.
+
+The frog runs directly toward camera.
+
+FROG:
+
+"COMING THROUGH!"
+
+SMASH CUT:
+
+WIDE SHOT OF POND.
+
+The burning frog flies through the air
+from left to right.
+
+Freeze his silhouette for approximately 0.15 seconds
+against the night sky.
+
+Then—
+
+SPLASH!
+
+He disappears into the pixelated blue water.
+
+Huge geometric pixel splash.
+
+Music abruptly stops.
+
+────────────────────────────
+0:08–0:10 — PUNCHLINE
+
+Everything becomes quiet.
+
+Static wide shot of the pond.
+
+Small pixel water ripples.
+
+Crickets.
+
+Nothing happens for approximately one second.
+
+Then the frog's two eyes slowly rise above the water.
+
+His entire body is underwater.
+
+He looks exhausted.
+
+FROG, quietly:
+
+"...nailed it."
+
+PING.
+
+A tiny orange flame suddenly appears
+on top of his head.
+
+Even though he is underwater.
+
+His eyes slowly look upward toward it.
+
+One tiny:
+
+"pop."
+
+CUT TO BLACK.
+
+────────────────────────────
+PIXEL ART DIRECTION
+
+Authentic 16-bit sprite animation.
+
+Use deliberately limited animation frames.
+
+Fire animation:
+3–5 repeating hand-drawn pixel flame states.
+
+Running animation:
+classic 4–6 frame sprite cycle.
+
+Water splash:
+large blocky clusters of cyan and dark-blue pixels.
+
+Facial expressions must remain extremely simple:
+large white pixel eyes,
+black pupils,
+simple mouth shapes.
+
+Emotions should come from
+eye position,
+mouth shape,
+body pose,
+and timing.
+
+Do NOT introduce detailed facial anatomy.
+
+────────────────────────────
+CAMERA LANGUAGE
+
+Despite the retro pixel-art aesthetic,
+use cinematic storytelling through cuts:
+
+wide establishing shot,
+medium shot,
+close-up,
+side-scrolling tracking shot,
+frontal shot,
+wide action shot,
+final static comedy shot.
+
+Use HARD CUTS.
+
+Occasional fast digital punch-in.
+
+No smooth cinematic camera floating.
+
+Camera movement should feel like
+a retro game suddenly behaving like a cartoon.
+
+────────────────────────────
+AUDIO
+
+Original playful 16-bit chiptune soundtrack.
+
+Square-wave melody.
+Simple synthesized bass.
+Retro drum-machine percussion.
+
+During panic:
+music becomes faster and more chaotic.
+
+When the frog hits the water:
+music stops immediately.
+
+Use classic game-inspired sound design:
+
+magic spark — high-pitched PING
+fire appearing — pixelated WHOOM
+running — rapid tiny footsteps
+jump — short ascending synth tone
+water — exaggerated 8-bit SPLASH
+final flame — tiny POP
+
+Dialogue remains clear above music.
+
+FROG VOICE:
+small expressive male cartoon voice,
+slightly raspy,
+confident at first,
+frantic in the middle,
+completely exhausted at the end.
+
+Exact dialogue:
+
+"Okay... tiny fireball."
+
+"Yes!"
+
+"...oh."
+
+"OH! OH! OH!"
+
+"WATER! WATER!"
+
+"COMING THROUGH!"
+
+"...nailed it."
+
+────────────────────────────
+CRITICAL CONSISTENCY
+
+The frog must remain the SAME character in every shot.
+
+Same green body.
+Same large white eyes.
+Same dark-purple wizard hat.
+Same proportions.
+Same pixel resolution.
+Same sprite-design language.
+
+Do not suddenly increase visual detail during close-ups.
+
+A close-up must simply reveal
+LARGER PIXELS,
+not higher-resolution artwork.
+
+This is extremely important.
+
+────────────────────────────
+STRICTLY AVOID
+
+3D,
+photorealism,
+smooth vector animation,
+anti-aliased edges,
+high-resolution illustration,
+anime,
+realistic frog anatomy,
+realistic fire,
+realistic water simulation,
+motion blur,
+depth of field,
+cinematic lens effects,
+text,
+captions,
+logos,
+game interface,
+health bars,
+character redesign between shots.

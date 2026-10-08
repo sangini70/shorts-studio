@@ -1,0 +1,339 @@
+10-SECOND CINEMATIC ANIMATED NOIR SHORT FILM.
+ASPECT RATIO: STRICTLY 16:9 HORIZONTAL LANDSCAPE.
+1920×1080 COMPOSITION.
+NEVER vertical, NEVER square, NEVER portrait.
+
+Create a sophisticated short narrative animation about a mysterious businessman counting money alone late at night, until he discovers that someone has secretly entered the room.
+
+VISUAL STYLE:
+Preserve the visual language of the reference image.
+
+Stylized hand-drawn 2D neo-noir animation.
+1950s–1970s crime-thriller editorial illustration aesthetic.
+Angular character design, sharp cheekbones, heavy eyebrows, large expressive hands, dramatic cel shading.
+
+Color palette:
+deep burgundy red,
+tobacco brown,
+charcoal black,
+dirty amber,
+muted cream.
+
+A gigantic red hanging lamp is the primary visual motif.
+Its warm red light creates a hard cone of illumination over the desk while the surrounding room disappears into near-black shadow.
+
+Subtle analog paper texture,
+slightly rough ink outlines,
+restrained film grain,
+hand-painted backgrounds,
+soft cigarette-like atmospheric haze,
+graphic shadows.
+
+NOT photorealistic.
+NOT 3D.
+NOT glossy CGI.
+
+Maintain EXACT character consistency throughout all shots.
+
+CHARACTER:
+middle-aged intimidating businessman,
+slicked-back black hair,
+very heavy black eyebrows,
+long angular face,
+charcoal suit,
+white shirt,
+dark burgundy tie,
+large hands,
+emotionally restrained expression.
+
+
+STORY:
+
+0.0–2.5 sec — MONEY
+
+MACRO CLOSE-UP.
+
+Stacks of banknotes fill the foreground of a wide 16:9 composition.
+
+His enormous hands rapidly count money beneath the red lamp.
+
+Bills flick rhythmically through his fingers.
+
+CAMERA:
+slow lateral dolly across the desk,
+passing multiple stacks of cash.
+
+The businessman remains mostly outside the frame.
+
+AUDIO:
+rapid rhythmic paper flicking:
+
+frrt—frrt—frrt—frrt—
+
+quiet clock ticking somewhere in the room.
+
+A minimal noir soundtrack begins:
+slow upright bass,
+very soft brushed drums,
+one distant piano note.
+
+
+2.5–4.3 sec — THE MAN
+
+HARD CUT.
+
+Low-angle medium close-up.
+
+The red lamp fills the left foreground.
+
+The businessman occupies the right side of the cinematic widescreen composition.
+
+Half his face is illuminated red.
+Half disappears into black shadow.
+
+His hands continue counting below frame.
+
+CAMERA:
+extremely slow push toward his face.
+
+His expression is completely emotionless.
+
+Then—
+
+his fingers suddenly stop.
+
+AUDIO:
+
+money flicking abruptly stops.
+
+Music stops with it.
+
+Only:
+
+tick.
+
+tick.
+
+tick.
+
+
+4.3–6.2 sec — THE WRONG BILL
+
+SMASH CUT.
+
+EXTREME MACRO CLOSE-UP.
+
+A single banknote between his fingers.
+
+Among the normal money is ONE strange matte-black banknote.
+
+He slowly pulls it from the stack.
+
+Printed in its center:
+
+a minimal mysterious eye symbol.
+
+Nothing else.
+
+The red lamp flickers.
+
+Once.
+
+Twice.
+
+His thumb slowly moves across the strange symbol.
+
+AUDIO:
+
+electrical buzz:
+
+bzzzt...
+
+bzzzt...
+
+Then—
+
+deep restrained bass impact:
+
+BOOM.
+
+
+6.2–7.8 sec — HIS FACE
+
+HARD CUT.
+
+EXTREME CLOSE-UP OF HIS EYES.
+
+For the first time,
+his confidence disappears.
+
+His eyes remain fixed on the black banknote.
+
+Then his eyes slowly move upward.
+
+Not toward the camera—
+
+toward something BEHIND the camera.
+
+His eyebrows tighten.
+
+CAMERA:
+very slow push closer.
+
+AUDIO:
+
+complete silence.
+
+Then one faint wooden FLOOR CREAK behind him.
+
+CREEEAK.
+
+
+7.8–10.0 sec — THE REVEAL
+
+HARD CUT.
+
+WIDE OVER-THE-SHOULDER SHOT.
+
+Use the full horizontal 16:9 frame.
+
+Foreground:
+the businessman sitting at the desk,
+black banknote still between his fingers.
+
+Center:
+the glowing red hanging lamp.
+
+Background:
+a long dark room stretching far behind him.
+
+At the far end of the room...
+
+a tall human silhouette is standing perfectly still.
+
+It was apparently there the entire time.
+
+Hold this composition.
+
+Nobody moves.
+
+0.5 second uncomfortable silence.
+
+The silhouette quietly says in a calm low male voice:
+
+"You found it."
+
+The businessman slowly turns his head.
+
+Before we see his reaction—
+
+THE RED LAMP SUDDENLY SWITCHES OFF.
+
+CLICK.
+
+PURE BLACK.
+
+One final deep sub-bass:
+
+THUMM.
+
+END.
+
+
+EDITING LANGUAGE:
+
+This MUST feel like an actual edited short film.
+
+Use four clearly separated cinematic shots:
+
+MACRO MONEY
+→ HARD CUT
+→ FACE
+→ SMASH CUT
+→ BLACK BANKNOTE
+→ HARD CUT
+→ EYES
+→ HARD CUT
+→ WIDE SILHOUETTE REVEAL.
+
+Do NOT morph one composition into another.
+
+Every cut must noticeably change:
+camera distance,
+composition,
+and storytelling information.
+
+Use the horizontal 16:9 canvas deliberately:
+foreground objects on one side,
+character on the opposite side,
+large areas of darkness,
+strong depth between foreground and background.
+
+PACING:
+0–4 sec = controlled rhythm.
+4–6 sec = mystery begins.
+6–8 sec = tension.
+8–10 sec = reveal and cliffhanger.
+
+Do not introduce additional plot points.
+
+AUDIO DESIGN IS ESSENTIAL:
+
+Layer 1:
+quiet vintage office room tone.
+
+Layer 2:
+paper money flicking synchronized precisely with his fingers.
+
+Layer 3:
+distant analog clock.
+
+Layer 4:
+minimal noir soundtrack using upright bass, brushed drums and isolated piano.
+
+Layer 5:
+electrical lamp buzz.
+
+Layer 6:
+wooden floor creak.
+
+Layer 7:
+low cinematic sub-bass impacts.
+
+Dialogue must be quiet, intimate and threatening rather than theatrical.
+
+Final spoken dialogue:
+
+"You found it."
+
+NO narrator.
+
+
+STRICT CONSISTENCY:
+
+Same businessman in every shot.
+Same suit.
+Same face.
+Same red lamp.
+Same desk.
+Same room.
+Same stacks of money.
+Same lighting logic.
+
+The black banknote appears ONLY after 4 seconds.
+
+NO subtitles.
+NO captions.
+NO typography.
+NO logos.
+NO watermark.
+NO additional dialogue.
+NO random people.
+NO comedy.
+NO morphing.
+NO photorealism.
+NO 3D rendering.
+
+STRICT OUTPUT:
+10 seconds exactly.
+16:9 horizontal landscape only.

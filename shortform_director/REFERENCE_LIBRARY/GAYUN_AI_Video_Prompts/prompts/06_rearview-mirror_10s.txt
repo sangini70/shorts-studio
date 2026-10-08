@@ -1,0 +1,444 @@
+Create a 10-second cinematic 2D animated short film with a clear story,
+multiple shots, visible character faces, spoken dialogue, ambient sound,
+and seamless visual continuity.
+
+NO typography.
+NO captions.
+NO titles.
+NO written text anywhere.
+
+STORY:
+A young woman is driving alone across an empty desert highway.
+She casually adjusts her rear-view mirror.
+
+For one brief moment, she sees another woman sitting silently
+in the back seat.
+
+She turns around.
+
+Nobody is there.
+
+She looks back into the mirror.
+
+The mysterious woman is now much closer.
+
+────────────────────────────
+VISUAL STYLE
+
+Stylized minimalist 2D editorial animation.
+
+Strong flat vector illustration aesthetic.
+
+Characters, vehicles, landscapes and faces are constructed from
+large simplified geometric shapes and clean silhouettes.
+
+Very limited color palette:
+deep slate gray,
+charcoal black,
+electric cobalt blue,
+pale sky blue,
+burnt orange,
+rust brown,
+small warm cream highlights.
+
+Skin is rendered primarily in burnt orange and deep rust shadows.
+
+Faces are simplified but expressive:
+clean facial silhouettes,
+minimal nose,
+small mouth,
+simple graphic eyes,
+limited facial details.
+
+No realistic skin texture.
+No pores.
+No detailed hair strands.
+
+Hair is represented as large solid graphic shapes.
+
+Hard-edged shadows.
+Almost no texture.
+Minimal gradients.
+Clean graphic color blocking.
+
+The entire film must look like the SAME illustrator
+animated every frame.
+
+NOT photorealistic.
+NOT 3D CGI.
+NOT anime.
+NOT children's cartoon.
+
+Sophisticated contemporary editorial animation.
+
+────────────────────────────
+0:00–0:02 — THE ROAD
+
+WIDE EXTERIOR SHOT.
+
+A small dark car drives through an enormous empty landscape.
+
+Long perfectly straight highway disappearing toward the horizon.
+
+Flat blue sky.
+Dark geometric mountains.
+
+The car moves steadily forward.
+
+Camera tracks alongside it briefly.
+
+SOUND:
+
+soft engine hum,
+tires against asphalt,
+subtle desert wind.
+
+A restrained atmospheric electronic music bed begins:
+low warm synth pulse,
+slightly mysterious but calm.
+
+CUT INSIDE THE CAR.
+
+────────────────────────────
+0:02–0:04 — DRIVER
+
+MEDIUM CLOSE-UP.
+
+Profile of the young female driver.
+
+Burnt-orange skin.
+Dark geometric hair.
+Blue shirt.
+
+One hand holds the steering wheel.
+
+She looks slightly tired but relaxed.
+
+She glances upward toward the rear-view mirror.
+
+DRIVER, quietly:
+
+"Long way to go."
+
+Natural female voice.
+Soft, understated delivery.
+
+She raises her right hand.
+
+CUT TO:
+
+EXTREME CLOSE-UP of her fingers touching the rear-view mirror.
+
+The mirror tilts upward.
+
+Small plastic:
+
+click.
+
+────────────────────────────
+0:04–0:05.5 — SOMETHING IS WRONG
+
+POV OF THE REAR-VIEW MIRROR.
+
+The highway is visible behind the car.
+
+For half a second everything looks normal.
+
+Then—
+
+A WOMAN is visible sitting perfectly still
+in the center of the back seat.
+
+Only her upper body and face are visible.
+
+She wears dark clothing.
+
+Her face is rendered in the same minimalist geometric style.
+
+She stares directly into the mirror.
+
+No smile.
+
+No movement.
+
+Music immediately disappears.
+
+Only road noise remains.
+
+CUT TO:
+
+EXTREME CLOSE-UP OF DRIVER'S FACE.
+
+Her eyes widen.
+
+DRIVER:
+
+"What?"
+
+A short sharp inhale.
+
+────────────────────────────
+0:05.5–0:07 — EMPTY
+
+FAST CUT.
+
+Camera from the passenger seat.
+
+The driver suddenly turns her head and upper body
+toward the back seat.
+
+Her hair swings with the movement.
+
+CUT TO HER POV:
+
+The entire back seat is EMPTY.
+
+Nothing there.
+
+Blue daylight passes through the rear windows.
+
+Only the subtle vibration of the moving vehicle.
+
+Driver stares.
+
+Confused.
+
+She whispers:
+
+"...hello?"
+
+No answer.
+
+Only:
+
+rrrrrrrr—
+
+the continuous road noise.
+
+She slowly turns forward again.
+
+────────────────────────────
+0:07–0:09 — THE MIRROR
+
+CLOSE-UP.
+
+Driver's face from the front.
+
+Her expression is unsettled.
+
+She hesitates.
+
+Her eyes slowly move upward
+without moving her head.
+
+CUT TO:
+
+REAR-VIEW MIRROR POV.
+
+The mysterious woman is there again.
+
+But now she is MUCH CLOSER.
+
+Her face occupies almost the entire mirror.
+
+She is leaning forward from the back seat.
+
+Completely motionless.
+
+Her eyes stare directly at the driver.
+
+Hold for approximately 0.5 seconds.
+
+The mysterious woman quietly whispers:
+
+"Almost."
+
+Her voice is extremely close,
+as if whispered directly beside the driver's ear.
+
+────────────────────────────
+0:09–0:10 — END
+
+SMASH CUT TO DRIVER.
+
+Extreme close-up.
+
+Her eyes widen.
+
+She rapidly turns—
+
+CUT TO BLACK
+before we see what happens.
+
+SOUND:
+
+TIRES SCREECH.
+
+A sharp inhale.
+
+Music delivers one deep distorted bass note.
+
+BOOM.
+
+Immediate silence.
+
+────────────────────────────
+CHARACTER CONSISTENCY
+
+DRIVER:
+young adult woman,
+burnt-orange graphic skin tone,
+dark nearly-black geometric shoulder-length hair,
+simple cobalt-blue shirt,
+minimal facial features,
+small dark eyes,
+graphic nose and mouth.
+
+Her appearance MUST remain identical across every shot.
+
+MYSTERIOUS WOMAN:
+young adult female silhouette,
+very dark charcoal clothing,
+rust-orange simplified face,
+long black geometric hair,
+emotionless expression,
+minimal dark eyes.
+
+She must remain visually consistent between both mirror appearances.
+
+Do NOT change either character's face,
+hair,
+clothing,
+age,
+or proportions between shots.
+
+────────────────────────────
+CINEMATOGRAPHY
+
+Use intentional cinematic coverage:
+
+wide establishing shot,
+medium character shot,
+profile shot,
+extreme close-up,
+driver POV,
+rear-view mirror POV,
+reaction shot.
+
+Use HARD CUTS between shots.
+
+Camera movement should remain restrained.
+
+Occasional subtle push-in during suspense.
+
+No random camera motion.
+No excessive zooming.
+No morphing between shots.
+
+Maintain correct spatial continuity inside the vehicle.
+
+The rear-view mirror must consistently show
+the physical back seat and rear window.
+
+────────────────────────────
+ANIMATION
+
+Premium limited 2D animation.
+
+Approximately 12–18 visually meaningful poses per second,
+with intentionally smooth interpolation where appropriate.
+
+Natural subtle character movement:
+blinking,
+breathing,
+finger movement,
+hair movement,
+eye movement,
+small head movements.
+
+During suspense,
+reduce movement dramatically.
+
+The mysterious woman should be unnaturally still.
+
+Her stillness should contrast with the subtle vibration
+of the moving car.
+
+────────────────────────────
+AUDIO DIRECTION
+
+Dialogue must be clearly audible and naturally performed.
+
+DRIVER:
+young adult female voice,
+natural,
+quiet,
+slightly tired initially,
+then confused and frightened.
+
+MYSTERIOUS WOMAN:
+quiet female whisper,
+intimate,
+calm,
+emotionless,
+slightly unnatural proximity.
+
+Dialogue:
+
+Driver:
+"Long way to go."
+
+Driver:
+"What?"
+
+Driver:
+"...hello?"
+
+Mysterious woman:
+"Almost."
+
+BACKGROUND AUDIO:
+
+continuous subtle tire noise,
+low car engine,
+light wind,
+occasional interior vibration.
+
+MUSIC:
+
+minimal atmospheric electronic score,
+very restrained,
+low analog synth pulse.
+
+Music abruptly disappears when the woman
+first appears in the mirror.
+
+Final shot receives ONE deep distorted bass impact.
+
+Sound design should create tension primarily through silence,
+not loud horror effects.
+
+────────────────────────────
+STRICTLY AVOID
+
+photorealism,
+3D CGI,
+realistic skin,
+complex textures,
+anime aesthetics,
+exaggerated cartoon expressions,
+comedy,
+gore,
+blood,
+monsters,
+supernatural visual effects,
+glowing eyes,
+text,
+subtitles,
+captions,
+logos,
+random passengers,
+changing vehicle interior,
+character morphing,
+inconsistent faces,
+excessive camera movement.

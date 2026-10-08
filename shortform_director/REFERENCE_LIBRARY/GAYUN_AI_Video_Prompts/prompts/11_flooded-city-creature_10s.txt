@@ -1,0 +1,678 @@
+Create a 10-second cinematic animated short based on the visual world of the reference image.
+
+FORMAT:
+Vertical 9:16.
+Exactly 10 seconds.
+6 distinct cinematic shots with clear scene transitions.
+Dreamlike narrative animation.
+Integrated music and environmental sound design.
+No subtitles.
+No typography.
+Minimal or no dialogue.
+
+━━━━━━━━━━━━━━━━━━━━━━
+CORE STORY
+━━━━━━━━━━━━━━━━━━━━━━
+
+A young girl is sitting alone on a submerged pedestrian crossing
+inside a completely flooded city.
+
+The city has strangely adapted to the ocean.
+
+Fish swim between buildings.
+Sea turtles pass through intersections.
+Jellyfish float beside traffic lights.
+
+The girl seems completely accustomed to this world.
+
+Then she notices something below her.
+
+At first, only a shadow.
+
+Then something impossibly enormous
+slowly passes beneath the flooded street.
+
+She realizes she is sitting directly above it.
+
+━━━━━━━━━━━━━━━━━━━━━━
+VISUAL STYLE — CRITICAL
+━━━━━━━━━━━━━━━━━━━━━━
+
+Preserve the exact dreamy visual philosophy of the reference.
+
+Hand-painted surreal anime-inspired editorial illustration,
+but NOT conventional commercial anime.
+
+Soft watercolor and gouache texture.
+Subtle paper grain.
+Delicate imperfect outlines.
+Dreamlike atmospheric perspective.
+
+Color palette:
+
+luminous turquoise,
+aquamarine,
+cyan,
+deep ocean blue,
+pale icy blue,
+soft white,
+small coral-red accents.
+
+The flooded city should feel beautiful rather than apocalyptic.
+
+Crystal-clear blue water fills the entire urban environment.
+
+Streetlights and traffic lights rise through the water.
+
+White pedestrian crossing stripes appear suspended beneath the surface.
+
+Buildings continue downward into mysterious blue depths.
+
+Fish swim naturally through streets.
+
+Sea turtles drift between intersections.
+
+Jellyfish float slowly beside architecture.
+
+Sunlight from far above creates moving caustic patterns
+across walls, roads, skin, and objects.
+
+Tiny bubbles constantly rise toward the surface.
+
+Everything moves slowly,
+as though the entire city is dreaming underwater.
+
+━━━━━━━━━━━━━━━━━━━━━━
+CHARACTER
+━━━━━━━━━━━━━━━━━━━━━━
+
+One young woman.
+
+Short dark bob haircut.
+
+Simple coral-red oversized sweater
+with a dark circular graphic.
+
+Dark shorts.
+
+Pale socks.
+
+Simple shoes.
+
+Keep her appearance EXACTLY CONSISTENT throughout every shot.
+
+Her face must appear clearly during the film.
+
+Simple delicate illustrated features.
+
+Expressive eyes.
+
+Natural understated emotion.
+
+No exaggerated anime reaction.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 1 — 0:00–0:02.0
+THE FLOODED CITY
+━━━━━━━━━━━━━━━━━━━━━━
+
+EXTREME WIDE ESTABLISHING SHOT.
+
+Camera slowly descends through a surreal flooded intersection.
+
+An entire city exists underwater.
+
+Traffic lights stand silently beneath blue water.
+
+Street lamps disappear upward toward the shimmering surface.
+
+White pedestrian crossing stripes stretch through the intersection.
+
+Fish swim casually across them.
+
+A sea turtle slowly crosses the street.
+
+Jellyfish drift between buildings.
+
+In the center—
+
+the girl sits alone
+on one enormous white crossing stripe.
+
+She looks tiny inside the enormous submerged city.
+
+Her legs hang over its edge.
+
+Her hair gently floats upward.
+
+Camera slowly pushes toward her.
+
+AUDIO:
+
+deep underwater ambience.
+
+soft distant water resonance.
+
+bubbles:
+
+blup...
+blup...
+
+A minimal dreamy soundtrack begins:
+
+soft electric piano,
+distant glassy synth,
+very slow 65–70 BPM pulse.
+
+CUT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 2 — 0:02.0–0:03.5
+HER WORLD
+━━━━━━━━━━━━━━━━━━━━━━
+
+CUT TO MEDIUM SIDE PROFILE.
+
+The girl sits peacefully.
+
+A small silver fish swims directly past her face.
+
+Her eyes follow it.
+
+She gives the smallest amused smile.
+
+Behind her,
+a sea turtle slowly passes through frame.
+
+Sunlight ripples beautifully across her face.
+
+Her dark hair gently floats around her cheeks.
+
+She seems completely comfortable underwater.
+
+Then—
+
+something changes.
+
+The moving sunlight across her face suddenly disappears.
+
+Her face falls into shadow.
+
+Her smile fades.
+
+She slowly looks downward.
+
+AUDIO:
+
+music begins losing its high frequencies.
+
+The underwater ambience becomes deeper.
+
+A very faint:
+
+mmmmmmmmmm...
+
+CUT ON HER DOWNWARD GLANCE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 3 — 0:03.5–0:05.0
+THE SHADOW
+━━━━━━━━━━━━━━━━━━━━━━
+
+CUT TO HER POV.
+
+Looking straight downward into the flooded street.
+
+At first:
+
+nothing unusual.
+
+Small fish.
+
+Road markings.
+
+Deep blue water.
+
+Then—
+
+an enormous dark shadow enters frame.
+
+Slowly.
+
+It moves beneath the crossing.
+
+It is FAR larger than any whale.
+
+We cannot yet see what it is.
+
+Only its gigantic silhouette.
+
+Small fish suddenly scatter away from it.
+
+The shadow continues moving.
+
+The entire frame gradually becomes darker.
+
+AUDIO:
+
+tiny fish movement:
+
+frrt—
+
+The music almost completely disappears.
+
+Deep underwater rumble grows:
+
+MMMMMMMMMMMM...
+
+CUT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 4 — 0:05.0–0:06.3
+FACE CLOSE-UP
+━━━━━━━━━━━━━━━━━━━━━━
+
+HARD CUT TO EXTREME CLOSE-UP OF THE GIRL'S FACE.
+
+IMPORTANT FACE SHOT.
+
+Her eyes are looking downward.
+
+For half a second:
+
+she doesn't move.
+
+Then her pupils slowly track something enormous
+moving underneath her.
+
+Her eyes widen slightly.
+
+Not cartoonishly.
+
+Her mouth parts just a little.
+
+A few strands of black hair float across her face.
+
+Moving blue reflections pass across her eyes.
+
+Then—
+
+her eyes suddenly move LEFT...
+
+following the creature.
+
+The deep rumble becomes louder.
+
+Her expression communicates:
+
+"What is THAT?"
+
+No spoken dialogue necessary.
+
+CUT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 5 — 0:06.3–0:08.5
+THE REVEAL
+━━━━━━━━━━━━━━━━━━━━━━
+
+DRAMATIC CUT TO EXTREME WIDE SIDE VIEW.
+
+The camera is now deep underwater,
+looking horizontally across the submerged city.
+
+The girl is visible FAR ABOVE,
+tiny,
+still sitting on the crossing stripe.
+
+Below her—
+
+an absolutely enormous creature
+slowly emerges from the blue darkness.
+
+Do NOT fully reveal it.
+
+We see only:
+
+a gigantic curved back,
+
+a massive slow-moving silhouette,
+
+and one enormous glowing eye.
+
+The eye alone
+is almost the size of a car.
+
+The creature peacefully glides underneath the intersection.
+
+It is not attacking.
+
+It is ancient.
+
+Calm.
+
+Almost majestic.
+
+Its movement pushes a slow current through the city.
+
+The girl's hair and clothes move with the current.
+
+Fish form enormous flowing patterns around its body.
+
+The scale difference must be breathtaking.
+
+Tiny girl above.
+
+Gigantic unknown creature below.
+
+AUDIO:
+
+deep cinematic underwater resonance.
+
+MMMMMMMMMMMMM...
+
+Very subtle heartbeat-like bass:
+
+BOOM...
+
+...
+
+BOOM...
+
+Music introduces one beautiful sustained synth chord.
+
+No action-movie sound.
+
+This is awe,
+not horror.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 6 — 0:08.5–0:10.0
+IT SAW HER
+━━━━━━━━━━━━━━━━━━━━━━
+
+CUT BACK TO MEDIUM CLOSE-UP OF THE GIRL.
+
+She is leaning forward,
+looking into the depths.
+
+The enormous shadow continues disappearing beneath her.
+
+Light slowly returns.
+
+She exhales.
+
+Relief.
+
+Then—
+
+something makes her stop.
+
+CUT TO HER POV.
+
+Far below,
+deep inside the blue darkness—
+
+the enormous glowing eye is still visible.
+
+The creature has stopped.
+
+The eye slowly rotates.
+
+Until it is looking DIRECTLY UP AT HER.
+
+Hold.
+
+Girl and creature stare at each other.
+
+No movement.
+
+No attack.
+
+Just recognition.
+
+One tiny bubble passes in front of camera:
+
+blup.
+
+The girl's eyes widen slightly.
+
+The creature slowly blinks.
+
+BOOM.
+
+CUT TO BLACK.
+
+━━━━━━━━━━━━━━━━━━━━━━
+AUDIO / MUSIC — FULL TIMELINE
+━━━━━━━━━━━━━━━━━━━━━━
+
+0:00–0:02
+
+dreamy underwater ambience,
+soft bubbles,
+distant water movement.
+
+Minimal electric piano.
+
+Sparse glassy synth notes.
+
+0:02–0:03
+
+small fish movement.
+
+Very subtle underwater current.
+
+Peaceful music continues.
+
+0:03
+
+sunlight disappears.
+
+Music begins filtering downward.
+
+Introduce extremely subtle low-frequency rumble:
+
+mmmm...
+
+0:03.5–0:05
+
+rumble slowly grows.
+
+Small fish scatter:
+
+frrrt—
+
+Almost remove the music completely.
+
+0:05
+
+FACE CLOSE-UP.
+
+Near silence.
+
+Only underwater pressure.
+
+Very faint heartbeat:
+
+boom...
+
+0:06.3
+
+CREATURE REVEAL.
+
+Large deep underwater resonance:
+
+MMMMMMMMM...
+
+Not an explosion.
+
+Not a monster roar.
+
+One beautiful sustained synth chord enters.
+
+0:07
+
+deep bass pulse:
+
+BOOM...
+
+0:08
+
+creature passes.
+
+Current:
+
+whoooooosh...
+
+0:08.5
+
+sound becomes quiet again.
+
+Girl exhales softly.
+
+0:09
+
+single bubble:
+
+blup.
+
+0:09.5
+
+creature blinks.
+
+One deep final:
+
+BOOM.
+
+0:10
+
+CUT TO COMPLETE SILENCE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+EDITING — ABSOLUTELY CRITICAL
+━━━━━━━━━━━━━━━━━━━━━━
+
+THIS MUST NOT BE ONE CONTINUOUS CAMERA SHOT.
+
+Use obvious cinematic editing.
+
+SHOT 1:
+EXTREME WIDE flooded city.
+
+→ CUT
+
+SHOT 2:
+MEDIUM PROFILE of girl.
+
+→ EYELINE CUT
+
+SHOT 3:
+GIRL'S POV looking downward.
+
+→ HARD CUT
+
+SHOT 4:
+EXTREME FACE CLOSE-UP.
+
+→ DRAMATIC SCALE CUT
+
+SHOT 5:
+EXTREME WIDE underwater creature reveal.
+
+→ CUT
+
+SHOT 6:
+GIRL CLOSE-UP → POV of giant eye.
+
+Each shot must have a clearly different:
+
+camera distance,
+composition,
+perspective,
+and narrative purpose.
+
+The cuts should be motivated by what the girl sees.
+
+WIDE WORLD
+→ GIRL
+→ WHAT SHE SEES
+→ HER REACTION
+→ WHAT IT REALLY IS
+→ FINAL EYE CONTACT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+PACING — IMPORTANT
+━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT add additional story events.
+
+Do NOT show the creature immediately.
+
+The creature reveal must be earned.
+
+0–3 sec:
+peace.
+
+3–5 sec:
+something is wrong.
+
+5–6 sec:
+reaction.
+
+6–8.5 sec:
+reveal.
+
+8.5–10 sec:
+connection.
+
+The giant creature should appear only in the second half.
+
+Its complete body should NEVER be visible.
+
+Mystery is more important than spectacle.
+
+━━━━━━━━━━━━━━━━━━━━━━
+STRICTLY AVOID
+━━━━━━━━━━━━━━━━━━━━━━
+
+single continuous shot,
+static slideshow,
+rapid random montage,
+photorealism,
+3D CGI,
+generic anime aesthetic,
+cyberpunk,
+post-apocalyptic destruction,
+collapsed buildings,
+drowning,
+panic,
+girl swimming away,
+monster attack,
+shark attack,
+chase sequence,
+screaming,
+weapons,
+horror gore,
+giant creature roaring,
+too many creatures,
+character changing appearance,
+random outfit changes,
+text,
+subtitles,
+logos,
+voiceover.
+
+The result should feel like a 10-second fragment
+from a beautiful animated film.
+
+A quiet flooded city.
+
+A girl who has lived there long enough
+that fish no longer surprise her.
+
+Then, for the first time,
+
+something beneath the city
+
+looks back.

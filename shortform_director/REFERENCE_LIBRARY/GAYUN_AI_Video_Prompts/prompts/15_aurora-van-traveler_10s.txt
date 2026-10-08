@@ -1,0 +1,237 @@
+10-SECOND CINEMATIC ANIMATED SHORT.
+STRICT FORMAT: 16:9 HORIZONTAL LANDSCAPE ONLY.
+1920×1080.
+Use the reference image as the visual foundation.
+
+IMPORTANT:
+THIS VIDEO MUST CONTAIN CLEAR, VISIBLE SCENE CUTS.
+DO NOT make the entire video one continuous camera movement.
+Use cinematic HARD CUTS between different compositions.
+
+VISUAL STYLE:
+dreamy hand-painted anime illustration,
+soft cinematic grain,
+deep navy and teal arctic night,
+enormous luminous green and turquoise aurora,
+warm amber light from inside an old dark-blue van,
+soft snow particles,
+quiet winter-road-trip atmosphere,
+subtle hand-drawn animation,
+beautiful contrast between freezing blue exterior and warm golden interior.
+
+Keep the SAME young traveler, SAME blue van, SAME winter clothing, SAME pink headphones throughout.
+
+STORY:
+A young traveler is resting inside a warm van on a freezing night.
+A strange green light suddenly enters the vehicle.
+They climb onto the roof and discover an enormous aurora filling the entire sky.
+
+
+0.0–2.3 sec — INSIDE THE VAN
+
+INTERIOR MEDIUM SHOT.
+
+Inside the old blue van at night.
+
+Warm amber cabin light.
+
+The traveler lies under a thick blanket wearing glowing pink headphones, quietly listening to music.
+
+Their eyes are almost closed.
+
+Snow slowly drifts past the windows.
+
+Suddenly—
+
+a faint GREEN LIGHT begins moving across the ceiling.
+
+The traveler notices it.
+
+Their eyes open.
+
+They slowly remove one side of the headphones.
+
+AUDIO:
+soft lo-fi music playing through headphones,
+quiet heater hum,
+winter wind outside,
+subtle fabric movement.
+
+As the green light appears, the music becomes slightly muffled.
+
+
+2.3–4.0 sec — FACE REACTION
+
+HARD CUT.
+
+CLOSE-UP OF THE TRAVELER'S FACE.
+
+Green and turquoise light slowly moves across their cheeks and eyes.
+
+Their expression changes from sleepy
+to confused
+to quietly amazed.
+
+They turn their eyes toward the window.
+
+The entire window is glowing green.
+
+AUDIO:
+lo-fi music almost disappears.
+
+Soft wind.
+
+A faint ethereal atmospheric tone begins.
+
+The traveler quietly whispers:
+
+"Whoa..."
+
+
+4.0–6.3 sec — REVEAL
+
+SMASH CUT TO EXTERIOR.
+
+WIDE SIDE SHOT.
+
+The van sits completely alone on a frozen landscape.
+
+The side door opens.
+
+The traveler climbs out wrapped in the blanket, then quickly climbs onto the roof.
+
+As they stand—
+
+the camera tilts upward.
+
+An enormous curtain of emerald aurora suddenly becomes visible across the sky.
+
+The traveler freezes in place.
+
+AUDIO:
+van door sliding open,
+
+clunk—
+
+boots touching metal roof,
+
+soft winter wind.
+
+Then the ambient score opens into a wide, dreamy synth.
+
+
+6.3–8.2 sec — PERSONAL MOMENT
+
+HARD CUT.
+
+MEDIUM FRONT / THREE-QUARTER SHOT.
+
+The traveler is now lying comfortably on the van roof beneath the blanket.
+
+Their FACE is clearly visible.
+
+Pink headphones rest around their ears.
+
+Their eyes reflect moving green aurora light.
+
+They smile very slightly.
+
+Beside them:
+a thermos,
+a tiny music player,
+and a small sleeping dog tucked beneath the blanket.
+
+The traveler reaches out and gently pulls the blanket over the dog.
+
+AUDIO:
+soft blanket rustle,
+tiny sleepy dog sigh,
+gentle wind,
+dreamy ambient music.
+
+
+8.2–10.0 sec — FINAL WONDER
+
+HARD CUT TO EXTREME WIDE SHOT.
+
+Camera positioned far behind and slightly above the van.
+
+The tiny blue van sits alone on an enormous frozen landscape.
+
+The traveler and dog are tiny figures lying on its roof.
+
+Then the aurora dramatically expands across nearly the ENTIRE 16:9 sky—
+
+massive luminous green ribbons flowing overhead,
+turquoise and faint violet layers twisting between thousands of stars.
+
+The traveler slowly raises one hand toward the sky.
+
+Camera gently pulls backward.
+
+The van becomes smaller.
+
+The aurora becomes enormous.
+
+AUDIO:
+wind becomes soft and spacious,
+deep warm synth swell,
+very faint sparkling atmospheric tones.
+
+No dialogue.
+
+CUT TO BLACK exactly at 10 seconds.
+
+
+EDITING STRUCTURE MUST BE OBVIOUS:
+
+warm VAN INTERIOR
+→ HARD CUT
+→ FACE CLOSE-UP
+→ SMASH CUT
+→ EXTERIOR / CLIMBING ONTO ROOF
+→ HARD CUT
+→ FACE + DOG QUIET MOMENT
+→ HARD CUT
+→ MASSIVE AURORA EXTREME WIDE FINALE.
+
+The different shots must feel like an edited animated short film,
+NOT one continuous AI camera morph.
+
+CAMERA:
+cinematic compositions,
+slow controlled movement inside individual shots,
+no chaotic camera motion,
+no excessive zooming,
+no fisheye,
+no handheld shaking.
+
+IMPORTANT STORY RHYTHM:
+0–2.3 sec = ordinary cozy night
+2.3–4 sec = strange light / curiosity
+4–6.3 sec = discovery
+6.3–8.2 sec = intimate emotional moment
+8.2–10 sec = visual payoff
+
+AUDIO MUST BE GENERATED WITH THE VIDEO:
+muffled lo-fi headphone music,
+van heater hum,
+winter wind,
+blanket rustle,
+van door sound,
+boots on metal roof,
+small dog breathing,
+ethereal ambient synth,
+subtle atmospheric sparkle.
+
+Only spoken dialogue:
+"Whoa..."
+
+NO NARRATOR.
+NO SUBTITLES.
+NO TYPOGRAPHY.
+NO LOGOS.
+NO WATERMARK.
+
+STRICTLY 10 SECONDS.
+STRICTLY 16:9 HORIZONTAL.

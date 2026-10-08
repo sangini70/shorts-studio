@@ -1,0 +1,251 @@
+10-SECOND CINEMATIC DREAMLIKE ANIMATION.
+STRICT OUTPUT: 16:9 HORIZONTAL LANDSCAPE, 1920×1080.
+NEVER portrait. NEVER square.
+
+Use the reference image as the visual foundation.
+
+STORY:
+Two young friends sit together on the roof of an old dark-blue van at sunset, watching an impossibly huge full moon. At first the moment feels peaceful and nostalgic. Then they slowly realize the moon is getting closer.
+
+VISUAL STYLE:
+Preserve the dreamy illustrated atmosphere of the reference:
+soft hand-painted anime-inspired editorial illustration,
+subtle film grain,
+deep cobalt-blue sky,
+coral-pink sunset horizon,
+huge pale ivory moon,
+dark navy silhouettes,
+soft atmospheric glow,
+minimal cinematic composition,
+quiet nostalgic road-trip mood.
+
+Do NOT make it photorealistic.
+Keep the SAME two characters, SAME van, SAME location and SAME clothing throughout.
+
+0.0–3.0 sec — QUIET MOMENT
+
+EXTREME WIDE REAR SHOT.
+
+The old van is parked alone on an empty road.
+
+Two friends sit shoulder-to-shoulder on the roof, seen from behind.
+
+An enormous glowing full moon dominates the sky directly behind them.
+
+The last orange sun is disappearing beneath the distant horizon.
+
+Their legs gently swing over the edge of the roof.
+
+A soft breeze moves their hair and clothes.
+
+One character quietly leans their shoulder against the other.
+
+CAMERA:
+very slow cinematic push-in.
+
+AUDIO:
+soft evening wind,
+distant crickets,
+faint cooling engine ticks from the van,
+gentle dreamy analog synth,
+two or three sparse piano notes.
+
+No dialogue.
+
+
+3.0–5.2 sec — SOMETHING IS WRONG
+
+HARD CUT.
+
+SIDE MEDIUM SHOT of the two friends.
+
+For the first time, partially reveal their faces in warm sunset light.
+
+One friend is relaxed.
+
+The other suddenly notices something strange.
+
+Their smile slowly disappears.
+
+They look upward.
+
+The moonlight becomes noticeably brighter across their faces.
+
+The second friend follows their gaze.
+
+CAMERA:
+slow tilt upward with their eyes.
+
+AUDIO:
+ambient music gradually fades,
+wind becomes quieter,
+a very subtle deep atmospheric rumble begins.
+
+
+5.2–7.2 sec — THE MOON MOVES
+
+SMASH CUT TO THEIR POV.
+
+The gigantic moon fills most of the sky.
+
+At first it appears still.
+
+Then—
+
+it visibly GROWS larger.
+
+Not rapidly.
+Slowly, impossibly, unmistakably.
+
+The moon is approaching Earth.
+
+Tiny stars disappear behind its expanding edge.
+
+Its pale glow floods the landscape.
+
+AUDIO:
+deep distant celestial rumble,
+
+mmmmmmmm—
+
+subtle low-frequency vibration.
+
+One friend whispers off-screen:
+
+"...is it moving?"
+
+
+7.2–8.5 sec — REALIZATION
+
+HARD CUT.
+
+FRONTAL CLOSE-UP OF BOTH FACES.
+
+Their faces are now illuminated almost entirely by cold white moonlight.
+
+They stare upward.
+
+Eyes widening.
+
+Neither moves for half a second.
+
+Then they slowly look at each other.
+
+Complete silence.
+
+One quietly says:
+
+"Yeah."
+
+Beat.
+
+
+8.5–10.0 sec — TOO CLOSE
+
+SMASH CUT TO EXTREME WIDE REAR SHOT.
+
+Return to almost the SAME composition as the opening.
+
+But now—
+
+the moon has become ENORMOUS.
+
+Its curved surface extends beyond the top and sides of the entire 16:9 frame.
+
+The van and the two friends are tiny silhouettes against it.
+
+The landscape is completely washed in pale moonlight.
+
+A powerful wind suddenly rushes toward them.
+
+Their hair and clothes violently flutter.
+
+The two friends instinctively grab onto each other.
+
+One shouts:
+
+"GO! GO! GO!"
+
+They scramble toward the edge of the van roof—
+
+CUT TO BLACK before they can climb down.
+
+AUDIO:
+
+WHOOMMMMM—
+
+powerful celestial bass,
+rushing wind,
+metal suspension creak from the van,
+
+"GO! GO! GO!"
+
+CUT TO BLACK.
+
+Then one final tiny sound:
+
+car keys jingling.
+
+END.
+
+
+EDITING MUST BE CLEAR:
+
+EXTREME WIDE peaceful composition
+→ HARD CUT
+→ SIDE FACE SHOT
+→ SMASH CUT
+→ MOON POV
+→ HARD CUT
+→ FRONTAL FACE REACTION
+→ SMASH CUT
+→ EXTREME WIDE FINALE.
+
+Do NOT create one continuous morphing camera shot.
+Actual cinematic cuts must be visible.
+
+STORY RHYTHM:
+0–3 sec: peaceful friendship
+3–5.2 sec: suspicion
+5.2–7.2 sec: impossible discovery
+7.2–8.5 sec: face reaction
+8.5–10 sec: sudden urgency
+
+IMPORTANT:
+Keep the story simple enough to read instantly within 10 seconds.
+Do not add unrelated events.
+Do not add additional people.
+Do not transform the moon into another object.
+Do not destroy the Earth.
+The moon simply appears impossibly close.
+
+AUDIO MUST BE GENERATED WITH THE VIDEO:
+evening wind,
+crickets,
+van engine cooling ticks,
+soft analog synth,
+sparse piano,
+deep celestial rumble,
+rising wind,
+van metal creak,
+subtle clothing flutter,
+natural dialogue.
+
+Dialogue:
+Friend 1, quiet and confused:
+"...is it moving?"
+
+Friend 2, stunned:
+"Yeah."
+
+Final urgent shout:
+"GO! GO! GO!"
+
+NO NARRATOR.
+NO SUBTITLES.
+NO TYPOGRAPHY.
+NO LOGOS.
+NO WATERMARK.
+
+STRICTLY 10 SECONDS.
+STRICTLY 16:9 HORIZONTAL.

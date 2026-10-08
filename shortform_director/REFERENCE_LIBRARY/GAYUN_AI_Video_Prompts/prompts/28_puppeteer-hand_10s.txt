@@ -1,0 +1,326 @@
+DURATION: 10 seconds.
+
+IMPORTANT PACING:
+
+Do not add any additional events.
+Use the additional runtime to create suspense, visual clarity, and a stronger final reversal.
+
+0:00–0:03.0 — I AM IN CONTROL
+
+Extreme wide editorial composition.
+
+A tiny office worker stands on a gigantic circular computer key beneath an enormous robotic hand.
+
+He types two commands into his laptop.
+
+TIK. TIK.
+
+The giant robotic hand responds precisely.
+
+First command:
+one robotic finger bends.
+
+KRRR.
+
+Second command:
+the robotic wrist rotates.
+
+KRRRK.
+
+The worker looks upward.
+
+A subtle confident expression.
+
+He believes the machine is obeying him.
+
+Low analog electronic pulse underneath.
+
+0:03.0–0:05.0 — SOMETHING IS WRONG
+
+Medium side shot.
+
+The worker stops typing.
+
+He slowly begins closing the laptop.
+
+CLICK—
+
+Before it closes completely:
+
+the gigantic robotic finger moves by itself.
+
+KRRRRRRR...
+
+The worker freezes.
+
+Do not cut immediately.
+
+Hold the uncomfortable silence.
+
+He slowly raises his eyes toward the machine.
+
+The music completely disappears.
+
+Only a faint electrical hum remains.
+
+0:05.0–0:07.0 — THE DISCOVERY
+
+Slow camera movement behind the worker.
+
+For the first time,
+reveal ONE extremely thin dark cable attached to the back of his shirt.
+
+Follow the cable upward.
+
+It disappears into the enormous robotic hand.
+
+The worker slowly looks over his shoulder.
+
+He notices it.
+
+His expression changes from confidence to confusion.
+
+Then—
+
+the cable becomes tight.
+
+TNNNNNG—
+
+Hold for a fraction of a second.
+
+0:07.0–0:09.0 — REVERSAL
+
+The robotic index finger slowly moves downward.
+
+KRRRRRR...
+
+At exactly the same time,
+
+the cable pulls the worker's arm upward.
+
+He tries to resist.
+
+His arm continues moving.
+
+INTERCUT / GRAPHIC MATCH:
+
+GIANT ROBOT FINGER DESCENDING.
+
+TINY HUMAN FINGER DESCENDING.
+
+ROBOT.
+
+HUMAN.
+
+ROBOT.
+
+HUMAN.
+
+Perfect synchronized movement.
+
+The worker realizes what is happening.
+
+His finger is forced onto the laptop keyboard.
+
+CLICK.
+
+Deep restrained bass impact.
+
+BOOM.
+
+0:09.0–0:10.0 — FINAL REVEAL
+
+Instant extreme wide shot.
+
+For the first time,
+reveal the COMPLETE composition.
+
+The enormous robotic hand hangs above like a puppeteer's hand.
+
+Several thin cables descend from its fingers.
+
+One attached to the worker's wrist.
+
+One to his shoulder.
+
+One to his back.
+
+The tiny worker stands below,
+still holding the laptop,
+his body positioned like a marionette.
+
+The giant computer key beneath him slowly depresses.
+
+CHK—
+
+The worker descends with it.
+
+CLICK.
+
+Everything stops.
+
+Hold the final graphic image.
+
+Complete silence.
+
+CUT TO BLACK.
+
+
+VISUAL STYLE:
+
+Sophisticated retro-futurist editorial poster animation.
+
+Flat 2D graphic illustration.
+Screen-printed aesthetic.
+Bold geometric silhouettes.
+Heavy halftone texture.
+Subtle paper grain.
+Slightly imperfect ink edges.
+
+Limited palette:
+cyan-blue background,
+deep navy,
+muted crimson red,
+off-white,
+pale cyan highlights.
+
+The robotic hand is enormous,
+angular,
+industrial,
+red and navy,
+at least thirty times larger than the human.
+
+The worker remains tiny and visually vulnerable.
+
+Strong negative space.
+
+Every frame should look like a designed editorial poster.
+
+No photorealism.
+No 3D CGI.
+No detailed facial rendering.
+No cyberpunk neon.
+No floating code.
+No holograms.
+No particles.
+No explosions.
+No action sequence.
+No additional characters.
+No text.
+No subtitles.
+No logos.
+No dialogue.
+
+
+AUDIO:
+
+Minimal retro-futurist electronic soundtrack.
+
+Analog synth pulse:
+doom...
+......doom...
+......doom...
+
+Opening keyboard:
+TIK.
+TIK.
+
+Robot response:
+KRRR.
+KRRRK.
+
+At 0:04,
+all music stops.
+
+Robot moves independently:
+
+KRRRRRR...
+
+Long uncomfortable electrical hum.
+
+Cable reveal:
+
+very faint low-frequency pulse.
+
+Cable tightening:
+
+TNNNNNG—
+
+Robot finger descending:
+
+slow mechanical servo,
+KRRRRRR...
+
+Human finger hits keyboard:
+
+CLICK.
+
+Immediately followed by one restrained deep sub-bass impact:
+
+BOOM.
+
+Final giant key:
+
+CHK—
+PSHHH...
+CLICK.
+
+Then complete silence.
+
+No voiceover.
+No dialogue.
+No exaggerated trailer music.
+
+
+CRITICAL STORY RULE:
+
+The first three seconds must convincingly establish:
+
+HUMAN ACTION
+→
+MACHINE RESPONSE.
+
+The audience must believe the human is controlling the machine.
+
+Only after this relationship is clearly established
+may the reversal occur.
+
+Then establish:
+
+MACHINE ACTION
+→
+HUMAN RESPONSE.
+
+Do not reveal the puppet cables early.
+
+The final wide shot must instantly communicate:
+
+THE CONTROLLER WAS ACTUALLY THE CONTROLLED.
+
+
+EMOTIONAL ARC:
+
+CONTROL
+→
+CONFIDENCE
+→
+SILENCE
+→
+SUSPICION
+→
+DISCOVERY
+→
+REALIZATION.
+
+Keep the story extremely simple.
+
+Do not use the extra runtime to add more events.
+
+Use the extra runtime for PAUSES.
+
+The silence before the reversal is essential.
+
+10 seconds.
+One idea.
+One reversal.
+One final image.

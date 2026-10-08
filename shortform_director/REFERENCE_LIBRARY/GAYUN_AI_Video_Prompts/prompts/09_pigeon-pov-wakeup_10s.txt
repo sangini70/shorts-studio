@@ -1,0 +1,528 @@
+Create a 10-second cinematic animated short with a clear miniature story and multiple shot transitions.
+
+The visual style must remain consistent throughout:
+hand-painted editorial illustration, expressive storybook animation, visible brush texture, slightly rough painted edges, rich cyan-blue sky, soft painterly white clouds, dark charcoal-blue pigeons with subtle teal and violet feather highlights, orange-red beaks, exaggerated expressive eyes, cinematic but clearly illustrated, NOT photorealistic, NOT 3D CGI.
+
+The story is simple:
+
+A person wakes up lying on the ground.
+
+A circle of pigeons is staring down at them.
+
+One pigeon gets uncomfortably close.
+
+The person suddenly realizes what is happening, panics, and violently sits upright.
+
+The sudden movement scares every pigeon into the air.
+
+The person is left sitting alone, confused, watching them disappear.
+
+IMPORTANT:
+Use actual cinematic shot progression.
+Do not keep the entire 10 seconds as one static pigeon composition.
+The camera must physically change because the person suddenly sits up.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 1 — 0:00–0:01.5
+WAKING UP
+━━━━━━━━━━━━━━━━━━━━
+
+FIRST-PERSON POV.
+
+The camera represents the eyes of a person lying flat on their back.
+
+Looking straight upward.
+
+Everything is heavily blurred.
+
+Bright blue sky.
+Large painterly white clouds.
+
+Several vague dark pigeon-shaped silhouettes surround the edges of the frame.
+
+Soft breathing.
+
+inhale...
+
+exhale...
+
+The focus slowly searches.
+
+Blur.
+
+Almost sharp.
+
+Blur again.
+
+Then—
+
+FOCUS.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 2 — 0:01.5–0:04.0
+THE REVEAL
+━━━━━━━━━━━━━━━━━━━━
+
+Six or seven pigeons are standing in a circle around the viewer.
+
+Low-angle first-person perspective from the ground.
+
+Their heads lean inward from every edge of the frame.
+
+They are all staring DIRECTLY INTO THE CAMERA.
+
+The center of the composition remains open blue sky.
+
+Hold the image.
+
+Do not overanimate.
+
+One pigeon blinks.
+
+Another slowly tilts its head.
+
+Another takes one tiny step closer.
+
+tok.
+
+Quiet pigeon sounds:
+
+coo...
+
+coo?
+
+The viewer's breathing becomes slightly faster.
+
+The pigeons continue staring.
+
+Awkward silence.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 3 — 0:04.0–0:05.5
+TOO CLOSE
+━━━━━━━━━━━━━━━━━━━━
+
+One particularly curious pigeon suddenly becomes interested.
+
+It stretches its neck downward toward the viewer.
+
+The camera stays still.
+
+The pigeon becomes larger and larger in frame.
+
+Its huge eye approaches the lens.
+
+Extreme close-up.
+
+Its eye studies the camera.
+
+Tiny head movement.
+
+Left.
+
+Right.
+
+It leans even closer.
+
+Almost touching the lens.
+
+coo?
+
+Then—
+
+TOK!
+
+The pigeon lightly pecks the camera.
+
+The image jolts.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 4 — 0:05.5–0:06.5
+PANIC / SIT UP
+━━━━━━━━━━━━━━━━━━━━
+
+THIS IS THE MAJOR CAMERA TRANSITION.
+
+The person suddenly gasps:
+
+"AH!"
+
+The first-person camera VIOLENTLY SWINGS FORWARD AND UPWARD
+as the person instinctively sits upright.
+
+Simulate the physical movement of someone rapidly raising their torso from the ground.
+
+Sky whips downward through frame.
+
+Pigeons suddenly explode outward.
+
+Wings fill the camera.
+
+Fast motion blur.
+
+Several pigeons fly extremely close past the lens.
+
+LOUD overlapping wing flaps:
+
+FRRRT!
+FLAP-FLAP-FLAP-FLAP!
+
+The camera briefly shakes from the startled movement.
+
+This should feel sudden and surprising.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 5 — 0:06.5–0:08.0
+NOW SITTING
+━━━━━━━━━━━━━━━━━━━━
+
+Camera stabilizes.
+
+Still FIRST-PERSON POV,
+but now the person is sitting upright.
+
+Completely different composition.
+
+We can now see:
+
+the person's knees and lower legs at the bottom of frame,
+
+one hand planted on the ground beside them,
+
+a sunny urban park,
+
+grass,
+
+a pathway,
+
+a bench,
+
+trees,
+
+distant buildings.
+
+The pigeons are rapidly flying away across the frame.
+
+One shoe is slightly crooked,
+suggesting the person really was unconscious or asleep on the ground.
+
+Breathing is now fast:
+
+huh...
+huh...
+huh...
+
+The person quickly looks left.
+
+WHIP PAN LEFT.
+
+A few pigeons escaping.
+
+Then right.
+
+WHIP PAN RIGHT.
+
+More pigeons flying away.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 6 — 0:08.0–0:10.0
+THE LAST PIGEON
+━━━━━━━━━━━━━━━━━━━━
+
+The camera slowly settles.
+
+Most pigeons are gone.
+
+The park becomes strangely quiet.
+
+The viewer looks forward.
+
+About several meters away—
+
+ONE pigeon remains.
+
+It is standing completely still on the pathway.
+
+Looking directly at the viewer.
+
+Hold.
+
+The viewer stops breathing heavily.
+
+Silence.
+
+The pigeon slowly tilts its head.
+
+...
+
+coo.
+
+The person quietly says:
+
+"What...?"
+
+The pigeon suddenly turns around
+and casually walks away.
+
+tiny footsteps:
+
+tok.
+tok.
+tok.
+
+CUT TO BLACK.
+
+━━━━━━━━━━━━━━━━━━━━
+CAMERA LANGUAGE
+━━━━━━━━━━━━━━━━━━━━
+
+The camera must communicate the person's physical state.
+
+0:00–0:05.5:
+camera lying horizontally on the ground,
+looking almost straight upward.
+
+0:05.5:
+sudden rapid sit-up movement.
+
+The horizon rotates and enters the frame naturally.
+
+0:06.5 onward:
+camera approximately 1 meter above ground,
+representing the eye position of a person sitting upright.
+
+Allow natural first-person head movements.
+
+Small breathing movement.
+
+Quick startled glances.
+
+Subtle handheld instability.
+
+The camera should feel like HUMAN EYES,
+not a floating cinematic drone.
+
+Do not show the person's face.
+
+Hands, knees or shoes may briefly enter frame after sitting up.
+
+━━━━━━━━━━━━━━━━━━━━
+COMEDIC RHYTHM
+━━━━━━━━━━━━━━━━━━━━
+
+The humor depends on contrast.
+
+FIRST HALF:
+
+slow.
+quiet.
+awkward.
+almost no movement.
+
+SECOND HALF:
+
+sudden panic.
+violent sit-up.
+birds everywhere.
+wing chaos.
+
+THEN:
+
+quiet again.
+
+The timing should feel:
+
+wake up...
+
+focus...
+
+pigeons.
+
+...
+
+why are they staring?
+
+...
+
+one comes closer.
+
+...
+
+TOO CLOSE.
+
+TOK!
+
+"AH!"
+
+WHOOSH — SIT UP.
+
+FLAP FLAP FLAP FLAP.
+
+silence.
+
+...
+
+one pigeon remains.
+
+coo.
+
+"What...?"
+
+━━━━━━━━━━━━━━━━━━━━
+AUDIO DESIGN
+━━━━━━━━━━━━━━━━━━━━
+
+No conventional background music during the opening.
+
+0:00–0:02:
+soft outdoor ambience,
+gentle wind,
+distant city,
+quiet breathing.
+
+0:02–0:04:
+individual pigeon coos,
+tiny feet,
+subtle feather movements.
+
+0:04–0:05.5:
+environment becomes quieter as the pigeon approaches.
+
+Close feather rustle.
+
+coo?
+
+TOK!
+
+0:05.5:
+sharp human startled gasp:
+
+"AH!"
+
+Immediately followed by explosive wing sounds.
+
+FRRRT!
+FLAP-FLAP-FLAP-FLAP!
+
+Clothing rustle as the person sits up.
+
+Hands briefly scraping against grass or pavement.
+
+0:06.5–0:08:
+fast human breathing,
+distant receding pigeon wings,
+park ambience returning.
+
+0:08:
+soundscape suddenly becomes calm.
+
+Very subtle low comedic musical note enters.
+
+Not cartoon music.
+
+Just one warm, understated bass tone.
+
+0:09:
+single pigeon:
+
+coo.
+
+Human, confused and quiet:
+
+"What...?"
+
+tiny pigeon footsteps.
+
+tok.
+tok.
+tok.
+
+CUT TO SILENCE.
+
+━━━━━━━━━━━━━━━━━━━━
+IMPORTANT ANIMATION RULES
+━━━━━━━━━━━━━━━━━━━━
+
+Maintain the SAME pigeons throughout the sequence.
+
+Keep anatomy bird-like.
+
+Pigeons should move naturally:
+small neck jerks,
+head tilts,
+blinking,
+tiny footsteps,
+rapid wingbeats during escape.
+
+Their humor comes from realistic pigeon behavior combined with exaggerated framing.
+
+Do NOT make them talk.
+
+Do NOT give them human facial expressions.
+
+Do NOT turn them into cartoon mascots.
+
+The opening pigeon circle should closely resemble an exaggerated illustrated fisheye perspective:
+pigeon heads entering from all sides,
+all looking downward toward the viewer,
+large blue sky visible between them.
+
+When the person sits up,
+the scene must transform spatially into a believable park environment.
+
+━━━━━━━━━━━━━━━━━━━━
+STRICTLY AVOID
+━━━━━━━━━━━━━━━━━━━━
+
+static slideshow,
+entire video staying on the same composition,
+random montage,
+third-person view of the person,
+showing the person's face,
+camera floating independently of the person,
+pigeons attacking,
+violent pecking,
+blood,
+horror,
+talking pigeons,
+human-like pigeons,
+3D Pixar style,
+photorealism,
+anime,
+text,
+captions,
+typography,
+logos,
+unnecessary characters.
+
+The final video should feel like a tiny animated story:
+
+YOU WAKE UP.
+
+Something feels wrong.
+
+You focus your eyes.
+
+A committee of pigeons is staring at you.
+
+One gets way too close.
+
+TOK.
+
+You panic and SIT UP.
+
+The entire flock explodes into the sky.
+
+Silence.
+
+One pigeon stayed behind.
+
+It looks at you.
+
+coo.
+
+"What...?"
+
+It casually walks away.
+
+CUT.

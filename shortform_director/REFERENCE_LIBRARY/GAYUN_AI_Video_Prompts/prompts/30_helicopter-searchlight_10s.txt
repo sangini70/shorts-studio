@@ -1,0 +1,270 @@
+10-SECOND CINEMATIC GRAPHIC NOIR ANIMATION.
+STRICT OUTPUT: 16:9 HORIZONTAL LANDSCAPE, 1920×1080.
+AUDIO INCLUDED.
+CLEAR SCENE TRANSITIONS ARE MANDATORY.
+
+Use the reference image as the main visual language.
+
+STYLE:
+minimalist editorial noir illustration,
+deep black night,
+monochrome cyan / teal searchlights,
+extreme graphic contrast,
+screen-printed poster texture,
+subtle paper grain,
+sharp geometric shadows,
+1960s–1980s thriller poster aesthetic,
+mysterious surveillance atmosphere.
+
+Keep ONE SAME adult fugitive throughout.
+Mostly represented as a small black silhouette.
+Do not introduce additional people.
+
+STORY:
+A lone person runs through complete darkness.
+A distant searchlight begins hunting for them.
+They try to hide.
+Then the source of the light is revealed:
+a helicopter.
+The beam finds them.
+
+
+0.0–2.3 SEC — RUN
+
+BLACK SCREEN.
+
+We hear footsteps BEFORE we see anything.
+
+tap—tap—tap—tap—
+
+HARD CUT.
+
+EXTREME WIDE SIDE SHOT.
+
+A tiny black human silhouette runs across a narrow dark ridge.
+
+Almost the entire frame is black.
+
+Only a faint cyan edge separates the ground from the sky.
+
+The runner repeatedly looks behind them.
+
+CAMERA:
+slow lateral tracking.
+
+AUDIO:
+rapid footsteps,
+strained breathing,
+distant cold wind,
+very subtle low-frequency pulse.
+
+No music yet.
+
+
+2.3–4.2 SEC — THE LIGHT
+
+SMASH CUT.
+
+CLOSE-UP OF THE RUNNER'S FACE.
+
+For the first and only clear facial glimpse:
+
+sweat,
+wide eyes,
+heavy breathing.
+
+Suddenly—
+
+a thin cyan beam sweeps across the background behind their face.
+
+Their eyes follow it.
+
+They freeze.
+
+AUDIO:
+
+WHOOOOSH—
+
+distant rotor noise slowly becomes audible.
+
+The runner whispers:
+
+"No..."
+
+
+4.2–6.2 SEC — HIDE
+
+HARD CUT TO HIGH-ANGLE WIDE SHOT.
+
+The runner dives behind a jagged black rock formation.
+
+A gigantic triangular searchlight sweeps across the landscape.
+
+LEFT...
+
+CENTER...
+
+RIGHT...
+
+The cyan beam narrowly misses them.
+
+The runner presses against the rock.
+
+Complete stillness.
+
+CAMERA:
+static overhead composition.
+
+AUDIO:
+helicopter rotor growing louder,
+
+THUP—THUP—THUP—THUP—
+
+wind,
+one nervous breath.
+
+The searchlight passes.
+
+Silence for half a second.
+
+
+6.2–7.6 SEC — FALSE SAFETY
+
+HARD CUT.
+
+MEDIUM SHOT.
+
+The runner slowly emerges from behind the rock.
+
+They look upward.
+
+Nothing.
+
+Darkness.
+
+They exhale in relief.
+
+Then—
+
+a tiny cyan point appears directly on their chest.
+
+They look down at it.
+
+Their expression changes instantly.
+
+AUDIO:
+one tiny electronic tracking tone:
+
+BEEP.
+
+Music begins with one deep bass hit.
+
+
+7.6–10.0 SEC — FOUND
+
+SMASH CUT TO EXTREME WIDE LOW-ANGLE SHOT.
+
+REVEAL THE HELICOPTER.
+
+A black helicopter silhouette hangs high in the night sky.
+
+Its rotors violently cut through the darkness.
+
+A MASSIVE CYAN SEARCHLIGHT suddenly blasts downward.
+
+WHOOM!
+
+The runner is caught perfectly in the center.
+
+They attempt to run—
+
+but the searchlight follows them precisely.
+
+Their enormous distorted shadow stretches across the ground.
+
+CAMERA RAPIDLY PULLS BACK.
+
+The entire composition gradually becomes increasingly graphic and poster-like:
+
+tiny hunted silhouette below,
+huge triangular cyan beam,
+helicopter above,
+almost pure black negative space.
+
+During the final 0.5 seconds,
+large condensed typography becomes visible INSIDE the beam:
+
+"FOUND"
+
+The runner stops.
+
+Looks upward.
+
+CUT TO BLACK.
+
+
+AUDIO:
+THUP THUP THUP THUP helicopter rotor,
+powerful rushing air,
+searchlight electrical ignition,
+footsteps,
+heavy breathing,
+deep cinematic bass,
+subtle analog thriller synth.
+
+At the exact final frame:
+
+all sound abruptly stops.
+
+BLACK.
+
+
+EDITING STRUCTURE:
+
+RUNNING SILHOUETTE
+→ SMASH CUT
+→ FACE CLOSE-UP + LIGHT PASSES
+→ HARD CUT
+→ OVERHEAD HIDING SHOT
+→ HARD CUT
+→ FALSE SAFETY
+→ BEEP
+→ SMASH CUT
+→ HELICOPTER REVEAL
+→ SEARCHLIGHT CATCHES HIM
+→ GRAPHIC POSTER COMPOSITION
+→ BLACK.
+
+IMPORTANT:
+Actual cuts between shots are mandatory.
+Do NOT generate one continuous camera movement.
+Do NOT reveal the helicopter immediately.
+The helicopter must remain mysterious until approximately 7.6 seconds.
+The searchlight itself should feel like the antagonist during the first half.
+
+Keep the visual information extremely minimal.
+Large areas of pure black negative space.
+Only black, dark navy and luminous cyan.
+No unnecessary buildings.
+No crowds.
+No vehicles except the helicopter.
+No weapons.
+No explosions.
+
+The final shot should strongly resemble a sophisticated animated editorial thriller poster.
+
+DIALOGUE:
+Only one whispered word:
+"No..."
+
+TYPOGRAPHY:
+Only final word:
+"FOUND"
+
+NO OTHER TEXT.
+NO LOGOS.
+NO SUBTITLES.
+NO WATERMARK.
+
+STRICTLY 10 SECONDS.
+STRICTLY 16:9 HORIZONTAL.

@@ -1,0 +1,520 @@
+Create a 10-second cinematic animated short with a clear emotional micro-story, multiple deliberate shot transitions, and one important close-up of the character's face.
+
+FORMAT:
+Vertical 16:9
+Duration: exactly 10 seconds.
+5 distinct cinematic shots.
+No typography or subtitles.
+No dialogue.
+
+━━━━━━━━━━━━━━━━━━━━━━
+VISUAL STYLE — CRITICAL
+━━━━━━━━━━━━━━━━━━━━━━
+
+Match the visual language of the reference image.
+
+Minimalist hand-painted editorial illustration.
+Warm contemporary Japanese editorial poster aesthetic.
+Flat geometric architecture mixed with soft hand-painted texture.
+Visible paper grain and subtle dry-brush texture.
+Simplified human anatomy.
+Elegant imperfect edges.
+Large areas of negative space.
+
+STRICT COLOR PALETTE:
+
+sunny lemon yellow,
+warm cream,
+muted chocolate brown,
+charcoal black,
+small accents of teal,
+soft coral-pink skin.
+
+The subway interior is flooded with intense golden afternoon sunlight.
+
+Windows become large glowing geometric rectangles.
+
+Long rectangular shadows stretch across the seats and floor.
+
+The character:
+
+a quiet young woman with a short straight black bob haircut,
+white oversized shirt,
+dark skirt,
+pink socks,
+black shoes,
+small muted teal backpack.
+
+Keep her design EXACTLY CONSISTENT in every shot.
+
+She should have a visible illustrated face when shown close-up:
+simple expressive eyes,
+small nose,
+minimal mouth,
+soft editorial features.
+
+NOT photorealistic.
+NOT anime.
+NOT glossy 3D.
+NOT detailed realism.
+
+The whole film should feel like
+a beautiful editorial illustration that has quietly come alive.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 1 — 0:00–0:02.0
+ALONE ON THE TRAIN
+━━━━━━━━━━━━━━━━━━━━━━
+
+WIDE ESTABLISHING SHOT.
+
+An almost empty subway carriage.
+
+Strong one-point perspective.
+
+Rows of long yellow seats.
+Large rectangular windows.
+Cream walls.
+Dark structural lines.
+
+Golden sunlight floods through the windows.
+
+The young woman sits completely alone near the center of the carriage.
+
+Her teal backpack rests against her back.
+
+She looks small compared with the enormous empty train.
+
+The train gently rocks.
+
+Sunlight and shadows slowly slide across the floor.
+
+Outside the windows,
+abstract city shapes move past horizontally.
+
+Camera performs a very slow cinematic push-in.
+
+AUDIO:
+
+soft rhythmic train:
+
+ka-dunk...
+ka-dunk...
+ka-dunk...
+
+gentle rail vibration.
+
+A very minimal warm instrumental track begins:
+soft electric piano,
+quiet brushed percussion,
+slightly nostalgic,
+70–80 BPM.
+
+CUT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 2 — 0:02.0–0:03.5
+HER FACE
+━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT CHARACTER SHOT.
+
+CUT TO MEDIUM CLOSE-UP.
+
+For the first time,
+clearly reveal the young woman's FACE.
+
+Three-quarter profile beside the glowing train window.
+
+Warm yellow sunlight falls across one side of her face.
+
+Her black bob gently moves with the vibration of the train.
+
+She looks tired and slightly distant.
+
+She watches the scenery outside.
+
+Her eyes slowly track something passing by.
+
+Then—
+
+she notices something below.
+
+Her eyes shift downward.
+
+Tiny change in expression:
+
+curiosity.
+
+No exaggerated reaction.
+
+Camera gently pushes closer toward her eyes.
+
+AUDIO:
+
+train ambience continues.
+
+Music becomes slightly quieter.
+
+One soft piano note.
+
+CUT ON HER EYE MOVEMENT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 3 — 0:03.5–0:05.5
+THE NOTE
+━━━━━━━━━━━━━━━━━━━━━━
+
+MATCH CUT downward.
+
+Close-up of the yellow seat beside her.
+
+A tiny folded cream-colored paper note
+is lying in a patch of sunlight.
+
+The train rocks.
+
+The paper moves almost imperceptibly.
+
+Her hand enters frame.
+
+She hesitates.
+
+Then picks it up.
+
+CUT TO an over-the-shoulder angle.
+
+She slowly unfolds the paper.
+
+We do NOT need readable text.
+
+Inside is simply a tiny hand-drawn flower.
+
+A very small,
+imperfect flower doodle.
+
+Nothing else.
+
+Her thumb gently touches the drawing.
+
+AUDIO:
+
+paper:
+
+frrp...
+
+soft fold opening.
+
+Train:
+
+ka-dunk...
+
+Music introduces a tiny warm bell tone.
+
+CUT.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 4 — 0:05.5–0:07.5
+THE REACTION
+━━━━━━━━━━━━━━━━━━━━━━
+
+CUT TO CLOSE-UP OF HER FACE.
+
+This is the emotional center of the film.
+
+The note is slightly visible at the bottom of frame.
+
+She looks down at it.
+
+Hold.
+
+For approximately half a second,
+her expression remains completely neutral.
+
+Then—
+
+the smallest smile slowly appears.
+
+Not a big smile.
+
+Almost imperceptible.
+
+Her eyes soften.
+
+She looks toward the window.
+
+CUT to a brief side profile:
+
+bright golden city and sky rushing past outside.
+
+The sunlight suddenly becomes stronger
+as the train emerges from shadow.
+
+Golden light washes across her face.
+
+She closes her eyes for just a moment.
+
+Peaceful.
+
+AUDIO:
+
+train ambience.
+
+The music gently opens up:
+one warm chord,
+soft tape-textured piano,
+very subtle airy pad.
+
+No vocals.
+
+No dialogue.
+
+━━━━━━━━━━━━━━━━━━━━━━
+SHOT 5 — 0:07.5–0:10.0
+PASS IT ON
+━━━━━━━━━━━━━━━━━━━━━━
+
+Train slows.
+
+BRAKES softly:
+
+shhhhhhhh...
+
+CUT TO LOW ANGLE.
+
+Her black shoes step onto the platform.
+
+One step.
+
+Then another.
+
+CUT.
+
+Interior of the train again.
+
+The doors are still open.
+
+The yellow seat where she was sitting
+is now EMPTY.
+
+For a moment,
+it appears she took the note with her.
+
+Then the camera slowly pushes toward the seat.
+
+There is something there.
+
+The same little cream-colored note.
+
+She deliberately left it behind.
+
+But now—
+
+beside the original tiny flower,
+
+she has added
+ONE SECOND tiny hand-drawn flower.
+
+Two flowers.
+
+The subway doors begin closing.
+
+ding-dong.
+
+Through the narrowing doorway,
+we briefly see the young woman walking away on the platform,
+teal backpack visible.
+
+Doors close.
+
+CLICK.
+
+Hold on the two tiny flowers.
+
+The train begins moving.
+
+Golden sunlight slides across the note.
+
+CUT TO BLACK.
+
+━━━━━━━━━━━━━━━━━━━━━━
+AUDIO — COMPLETE TIMELINE
+━━━━━━━━━━━━━━━━━━━━━━
+
+0:00
+quiet subway ambience.
+
+ka-dunk...
+ka-dunk...
+
+soft electric piano begins.
+
+0:02
+subtle cloth movement.
+
+single delicate piano note
+when her eyes move downward.
+
+0:03.5
+paper rustle:
+
+frrp...
+
+0:04.5
+paper unfolds:
+
+fff...
+
+tiny warm bell tone.
+
+0:05.5
+music briefly becomes very sparse.
+
+0:06
+her tiny smile appears.
+
+Warm piano chord enters.
+
+Very soft airy pad underneath.
+
+0:07.5
+train brakes:
+
+shhhhhhhhh...
+
+0:08
+shoe footsteps:
+
+tok.
+tok.
+
+0:08.7
+subway door chime:
+
+ding-dong.
+
+0:09
+doors sliding:
+
+shhhhh—
+
+0:09.5
+doors close:
+
+CLICK.
+
+Final soft piano note.
+
+Train begins moving again:
+
+ka-dunk...
+
+CUT TO SILENCE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+EDITING / TRANSITIONS — VERY IMPORTANT
+━━━━━━━━━━━━━━━━━━━━━━
+
+This MUST feel like an edited animated short,
+NOT one continuous generated camera movement.
+
+Use CLEAR CINEMATIC CUTS:
+
+WIDE TRAIN INTERIOR
+
+→ CUT
+
+FACE CLOSE-UP
+
+→ EYELINE MATCH CUT
+
+NOTE CLOSE-UP
+
+→ CUT
+
+FACE REACTION CLOSE-UP
+
+→ CUT
+
+FEET EXITING TRAIN
+
+→ CUT
+
+EMPTY SEAT + NOTE.
+
+Every shot must have a different composition and camera distance.
+
+Use visual continuity between cuts.
+
+Her downward glance motivates the cut to the note.
+
+The note motivates the cut back to her face.
+
+Train braking motivates the exit cut.
+
+Her departure motivates the final empty-seat reveal.
+
+━━━━━━━━━━━━━━━━━━━━━━
+PACING
+━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT cram additional events into the 10 seconds.
+
+This story contains only ONE event:
+
+A lonely passenger discovers a tiny kind gesture
+and quietly passes it forward.
+
+Give important moments room to breathe.
+
+Especially hold the FACE CLOSE-UP long enough
+for the audience to actually see her emotional change.
+
+The face must appear clearly at least twice:
+
+1. curious / distant face at approximately 0:02
+2. subtle smiling face at approximately 0:06
+
+━━━━━━━━━━━━━━━━━━━━━━
+STRICTLY AVOID
+━━━━━━━━━━━━━━━━━━━━━━
+
+single continuous shot,
+static slideshow,
+no shot changes,
+rapid chaotic montage,
+random camera movement,
+photorealism,
+3D CGI,
+anime aesthetic,
+hyper-detailed face,
+character changing appearance between shots,
+different clothing between shots,
+extra passengers suddenly appearing,
+complex action,
+dramatic crying,
+exaggerated smiling,
+talking,
+lip sync,
+voiceover,
+readable generated text,
+captions,
+logos,
+brand names,
+dramatic orchestral soundtrack.
+
+Keep it simple.
+
+Five cinematic shots.
+One character.
+One tiny discovery.
+One visible emotional reaction.
+One small decision.
+
+The emotional arc is:
+
+ALONE
+→ NOTICE
+→ DISCOVER
+→ SMILE
+→ PASS IT ON.

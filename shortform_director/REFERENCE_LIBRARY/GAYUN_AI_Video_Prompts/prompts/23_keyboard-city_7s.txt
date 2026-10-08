@@ -1,0 +1,429 @@
+Create a 7-second surreal retro-tech editorial animation.
+
+CORE CONCEPT:
+
+A gigantic human finger interacts with an enormous computer keyboard.
+
+At first it looks like a normal stylized keyboard.
+
+But every key press physically transforms the world.
+
+SHIFT changes gravity.
+SPACE opens an enormous empty void.
+ESC makes objects disappear.
+ENTER resets reality.
+
+The keyboard gradually reveals itself to be
+an impossible architectural landscape.
+
+No dialogue.
+
+Minimal typography only where naturally printed on keyboard keys.
+
+━━━━━━━━━━━━━━━━━━━━━━
+VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Preserve the visual language of the reference image.
+
+Retro 1980s–1990s computer editorial illustration.
+
+Vintage technology magazine artwork.
+Airbrushed commercial illustration.
+Screen-printed poster aesthetic.
+Early personal-computer advertising.
+Surreal retro-futurist graphic design.
+
+Extremely limited palette:
+
+dusty lavender,
+pale mauve,
+deep ultramarine blue,
+electric cobalt,
+burnt orange,
+vermillion red,
+near-black.
+
+Human skin is stylized saturated orange.
+
+Keyboard is pale lavender
+with dark cobalt-blue outlines and shadows.
+
+Strong red-orange illumination appears beneath pressed keys.
+
+Visible analog print texture.
+
+Fine grain.
+Subtle halftone.
+Slight ink misregistration.
+Soft airbrush shading.
+Imperfect printed edges.
+
+No photorealism.
+No modern glossy CGI.
+No realistic computer photography.
+
+Every frame should look like
+a vintage technology magazine illustration
+that has come alive.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:00–0:01.2 — SHIFT
+━━━━━━━━━━━━━━━━━━━━━━
+
+EXTREME MACRO SHOT.
+
+A gigantic orange human finger hovers
+above a lavender SHIFT key.
+
+Keyboard fills the entire frame.
+
+We hear:
+
+CLICK.
+
+The finger presses SHIFT.
+
+The key physically sinks deep into the keyboard.
+
+A bright vermillion-orange glow appears underneath it.
+
+CLACK.
+
+Suddenly—
+
+every other keyboard key rises upward.
+
+Mechanical:
+
+KRRRRRRR—
+
+Camera rapidly pulls backward.
+
+The flat keyboard transforms into
+an enormous geometric landscape.
+
+Keys rise like buildings.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:01.2–0:02.3 — KEYBOARD CITY
+━━━━━━━━━━━━━━━━━━━━━━
+
+EXTREME WIDE SHOT.
+
+The keyboard is now an impossible city.
+
+Q W E R T Y keys stand like enormous rectangular towers.
+
+CTRL, ALT and OPTION form giant platforms.
+
+Deep cobalt gaps exist between the keys.
+
+The gigantic orange finger moves above them
+like a strange creature.
+
+Camera flies low between the raised keys.
+
+Vintage electronic music begins.
+
+Dry drum-machine beat.
+
+Analog bass.
+
+Tiny computer bleeps.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:02.3–0:03.3 — SPACE
+━━━━━━━━━━━━━━━━━━━━━━
+
+TOP-DOWN SHOT.
+
+The finger rapidly travels across the keyboard.
+
+TAP.
+
+TAP.
+
+TAP.
+
+Each touch creates a small red-orange flash.
+
+Then it reaches:
+
+SPACE.
+
+The finger slams down.
+
+CLACK!
+
+The enormous SPACE BAR drops away completely.
+
+Instead of machinery underneath—
+
+there is an infinite ultramarine-blue void.
+
+Camera immediately falls through it.
+
+WHOOSH.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:03.3–0:04.3 — FALLING THROUGH DATA
+━━━━━━━━━━━━━━━━━━━━━━
+
+Camera falls through a surreal blue space.
+
+Huge keyboard keys float past like architectural slabs.
+
+A giant:
+
+A
+
+passes camera.
+
+Then:
+
+X
+
+Then:
+
+?
+
+Then:
+
+ESC
+
+All rendered as physical lavender keycaps.
+
+They rotate slowly in the void.
+
+The orange finger falls alongside them.
+
+Suddenly it points toward one floating key:
+
+ESC.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:04.3–0:05.2 — ESCAPE
+━━━━━━━━━━━━━━━━━━━━━━
+
+EXTREME CLOSE-UP.
+
+Finger hits ESC.
+
+CLICK.
+
+Instant silence.
+
+Every floating key disappears.
+
+POP.
+POP.
+POP.
+POP.
+
+The finger is now completely alone
+inside an enormous blue field.
+
+For half a second:
+
+nothing.
+
+Then a single rectangular key appears far below.
+
+ENTER.
+
+The finger begins falling directly toward it.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:05.2–0:06.2 — ENTER
+━━━━━━━━━━━━━━━━━━━━━━
+
+Rapid acceleration.
+
+ENTER grows larger.
+
+And larger.
+
+And larger.
+
+The finger approaches at extreme speed.
+
+Electronic pitch rises:
+
+eeeeeeeeEEEEEEE—
+
+IMPACT.
+
+Finger presses ENTER.
+
+CLACK!
+
+Massive orange-white flash.
+
+━━━━━━━━━━━━━━━━━━━━━━
+0:06.2–0:07.0 — RESET
+━━━━━━━━━━━━━━━━━━━━━━
+
+MATCH CUT.
+
+Return instantly to the ORIGINAL KEYBOARD.
+
+Exact opening composition.
+
+Everything is normal again.
+
+Lavender keyboard.
+
+Cobalt outlines.
+
+Orange finger.
+
+The finger slowly lifts from ENTER.
+
+Tiny electronic:
+
+beep.
+
+Then—
+
+one nearby SHIFT key moves downward
+BY ITSELF.
+
+click.
+
+The finger freezes.
+
+CUT TO ULTRAMARINE BLUE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+ANIMATION LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Movement should feel graphic,
+mechanical and surreal.
+
+Keys move as solid geometric blocks.
+
+Use:
+
+hard cuts,
+macro photography-style compositions,
+rapid pull-backs,
+geometric transformations,
+match cuts,
+impossible scale changes,
+mechanical vertical movement.
+
+The finger should retain the same
+stylized orange illustrated appearance.
+
+Do not turn the hand photorealistic.
+
+The keyboard should retain its printed,
+airbrushed illustration appearance
+even while transforming into architecture.
+
+━━━━━━━━━━━━━━━━━━━━━━
+CAMERA LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Strong variation between shots:
+
+extreme finger macro,
+rapid overhead pull-back,
+low-angle keyboard-city tracking,
+top-down composition,
+falling POV,
+extreme key close-up,
+final static macro.
+
+Use exaggerated perspective.
+
+Keys near camera may become enormous.
+
+Maintain clear graphic compositions.
+
+No handheld camera.
+No cinematic bokeh.
+No lens flare.
+
+━━━━━━━━━━━━━━━━━━━━━━
+AUDIO
+━━━━━━━━━━━━━━━━━━━━━━
+
+Original minimal retro electronic soundtrack.
+
+Early digital computer aesthetic
+mixed with analog synthesizers.
+
+Dry drum machine.
+Warm analog bass.
+Simple square-wave bleeps.
+Mechanical keyboard percussion.
+
+Keyboard sounds become part of the beat:
+
+CLICK.
+CLACK.
+TAP.
+TAP.
+CLACK.
+
+SHIFT transformation:
+mechanical rising sound.
+
+SPACE:
+deep impact followed by falling wind.
+
+ESC:
+complete musical silence.
+
+ENTER:
+rapid electronic pitch rise
+followed by a large mechanical impact.
+
+Final self-moving SHIFT key:
+
+tiny isolated click.
+
+No vocals.
+No dialogue.
+
+━━━━━━━━━━━━━━━━━━━━━━
+CRITICAL STYLE CONSISTENCY
+━━━━━━━━━━━━━━━━━━━━━━
+
+Maintain throughout:
+
+orange illustrated skin,
+lavender keyboard,
+cobalt-blue outlines,
+vermillion-red under-key highlights,
+deep ultramarine negative space,
+analog print grain,
+vintage airbrush texture.
+
+Even during the surreal sequences,
+everything must look like it belongs
+to the SAME retro technology illustration.
+
+STRICTLY AVOID:
+
+photorealistic hands,
+modern laptop keyboards,
+RGB gaming keyboards,
+modern computer UI,
+3D glossy CGI,
+metallic sci-fi environments,
+cyberpunk neon city,
+realistic office environment,
+rainbow colors,
+realistic skin texture,
+anime,
+cartoon comedy style,
+floating holographic UI,
+random text,
+captions,
+logos,
+modern smartphones,
+smooth sterile vector graphics.

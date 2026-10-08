@@ -1,0 +1,363 @@
+Create a 15-second premium graphic-design motion film.
+
+CORE VISUAL LANGUAGE:
+Ultra-minimal geometric editorial illustration inspired by modernist
+European poster design and contemporary motion graphics.
+
+Everything is constructed from simple geometric shapes:
+circles, rectangles, triangles, sharp irregular polygons and large flat planes.
+
+Strong flat graphic composition.
+Clean vector-like edges.
+No outlines.
+
+Extremely limited color palette:
+vivid electric cobalt-blue background,
+intense tomato red,
+warm coral-red,
+deep forest green,
+pure white,
+very pale translucent ice blue.
+
+Subtle gradients are allowed ONLY inside otherwise flat geometric shapes.
+The overall appearance must remain distinctly 2D and graphic.
+
+NO photorealism.
+NO realistic 3D rendering.
+NO realistic food photography.
+NO detailed textures.
+NO realistic environments.
+
+Typography is treated as part of the geometric composition:
+large bold Swiss-modernist sans-serif typography,
+oversized uppercase letters,
+clean editorial spacing,
+white or red typography only.
+
+All transitions must be motivated by shapes and movement inside the scene.
+No generic cross-dissolves or cinematic fades.
+
+────────────────────────────
+
+0:00–0:02 — OPENING
+
+A completely saturated cobalt-blue screen.
+
+A tiny red circle appears exactly in the center.
+
+One minimal electronic click:
+"tik."
+
+The circle rapidly expands toward the camera.
+
+As it expands, bold white typography appears:
+
+FRESH.
+
+The word occupies almost the entire frame.
+
+A short punchy bass hit lands exactly when the typography appears.
+
+The red circle expands beyond the edges of the screen,
+creating a geometric wipe transition.
+
+────────────────────────────
+
+0:02–0:05 — TOMATO
+
+CUT TO:
+
+Extreme graphic close-up of a single enormous red tomato.
+
+Only part of the tomato fits inside the frame.
+Dark-green geometric stem.
+
+Blue negative space surrounds it.
+
+The tomato slowly rotates approximately 15 degrees.
+
+Large white typography slides horizontally behind the tomato:
+
+RED
+IS
+GOOD.
+
+The tomato partially masks the typography,
+creating sophisticated editorial layering.
+
+SOUND:
+minimal rhythmic electronic percussion begins,
+around 110 BPM.
+
+Soft synthetic kick.
+Dry finger snap.
+Tiny percussive clicks.
+
+Every visual movement is synchronized to the beat.
+
+On the final beat,
+the tomato suddenly drops downward out of frame.
+
+WHUMP.
+
+The movement reveals the next scene.
+
+────────────────────────────
+
+0:05–0:08 — FALLING TOMATOES
+
+CUT TO:
+
+A translucent white geometric grocery bag
+against the same cobalt-blue background.
+
+Three bright red tomatoes fall from above,
+one after another.
+
+BOOP.
+BOOP.
+BOOM.
+
+Each tomato lands exactly on a musical beat.
+
+The bag is constructed from overlapping
+semi-transparent white and pale-blue polygons.
+
+The tomatoes bounce with playful,
+highly controlled 2D motion-design physics.
+
+Typography briefly appears between the falling tomatoes:
+
+ONE.
+
+TWO.
+
+THREE.
+
+Each word appears for only a fraction of a second,
+synchronized precisely with each impact.
+
+The final tomato impact pushes the camera rapidly downward.
+
+MATCH CUT.
+
+────────────────────────────
+
+0:08–0:11 — ABSTRACT SEQUENCE
+
+The red tomato circles transform into abstract red circles.
+
+Seven red circles move rhythmically across the blue screen.
+
+They stretch,
+compress,
+overlap,
+split across the composition,
+then snap back into perfect circles.
+
+White geometric lines briefly divide the screen.
+
+Rapid editorial typography flashes:
+
+RIPE.
+
+BRIGHT.
+
+FRESH.
+
+Each word appears for approximately 0.3–0.5 seconds.
+
+Typography should feel intentionally designed,
+not randomly generated.
+
+The rhythm becomes slightly faster.
+
+CLICK — CLICK — SNAP — BOOM.
+
+On the strongest bass hit,
+all seven circles suddenly collapse toward the center.
+
+────────────────────────────
+
+0:11–0:13 — REVEAL
+
+SMASH CUT.
+
+The circles resolve into seven tomatoes
+inside the translucent grocery bag.
+
+Perfect frontal poster composition.
+
+The bag drops approximately 5 centimeters
+and gently bounces once.
+
+Its two long geometric handles sway.
+
+Large white typography enters from behind the bag:
+
+KEEP
+IT
+FRESH.
+
+The bag masks portions of the letters,
+creating dimensional editorial layering
+while remaining visually flat.
+
+Music strips down to only bass pulse and clicks.
+
+────────────────────────────
+
+0:13–0:15 — HERO ENDING
+
+Everything suddenly becomes still.
+
+Cobalt-blue background.
+
+Full grocery bag centered in frame.
+
+Seven bright red tomatoes.
+
+Large negative space surrounding the object.
+
+Typography changes to:
+
+FRESH
+EVERY
+DAY.
+
+Small secondary typography underneath:
+
+KEEP IT SIMPLE.
+
+One final electronic bass hit.
+
+BOOM.
+
+The bag handles make one tiny final movement.
+
+Music ends with a short clean synthetic tone.
+
+Hard cut to blue.
+
+────────────────────────────
+
+CAMERA & MOTION LANGUAGE:
+
+Mostly locked frontal graphic compositions.
+
+Use occasional extreme close-ups,
+rapid geometric push-ins,
+match cuts,
+shape wipes,
+object masking,
+smash cuts,
+and graphic transformations.
+
+No handheld camera.
+
+No realistic cinematic camera movement.
+
+Motion should resemble premium 2D motion-design work:
+precise,
+rhythmic,
+playful,
+minimal,
+highly art-directed.
+
+Movement follows strong ease-in/ease-out curves.
+
+Objects must preserve their exact geometric appearance
+between frames.
+
+────────────────────────────
+
+MUSIC:
+
+Original minimalist electronic soundtrack.
+
+Approximately 110 BPM.
+
+Playful modern design-commercial feeling.
+
+Use:
+soft synthetic kick,
+muted electronic bass,
+dry finger snaps,
+woodblock-like clicks,
+tiny digital percussion,
+short analog synth notes.
+
+No vocals.
+No orchestral instruments.
+No dramatic cinematic soundtrack.
+
+Music must be tightly synchronized to visual transitions.
+
+────────────────────────────
+
+SOUND DESIGN:
+
+Every important movement receives subtle tactile sound design.
+
+Tomato appearing:
+soft pop.
+
+Tomato falling:
+short airy whoosh.
+
+Tomato impact:
+rounded rubber-like "boop."
+
+Typography appearing:
+tiny click or snap.
+
+Geometric transformations:
+short synthetic ticks.
+
+Major scene transitions:
+low-frequency soft impact.
+
+Keep sound effects clean, minimal and satisfying.
+
+No realistic kitchen ambience.
+No crowd noise.
+No environmental ambience.
+
+────────────────────────────
+
+CONSISTENCY RULES:
+
+Maintain exactly the same visual language throughout all shots.
+
+Same cobalt-blue background.
+Same red tomato palette.
+Same forest-green stems.
+Same geometric construction.
+Same flat vector aesthetic.
+Same typography family.
+Same translucent polygonal treatment.
+
+No visual-style changes between scenes.
+
+STRICTLY AVOID:
+
+photorealism,
+3D CGI,
+realistic tomatoes,
+realistic plastic bags,
+complex lighting,
+cinematic depth of field,
+bokeh,
+lens flare,
+realistic shadows,
+detailed environments,
+human hands,
+random objects,
+texture flickering,
+warped typography,
+misspelled typography,
+unintended text,
+object duplication,
+inconsistent tomato designs,
+morphing stems,
+camera shake.

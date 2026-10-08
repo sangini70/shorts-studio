@@ -1,0 +1,278 @@
+Create a 7-second experimental graphic-design motion film.
+
+STYLE:
+Raw punk editorial graphic design mixed with Swiss modernist typography,
+1970s–1990s public safety signage, underground music posters,
+photocopied zines, screen-printed political posters and distressed street graphics.
+
+Extremely bold oversized black grotesk sans-serif typography.
+Simple universal pictograms.
+Flat geometric symbols.
+Hard rectangular compositions.
+Aggressive cropping.
+Imperfect analog printing.
+
+Visible paper grain, faded ink, scratches, tiny registration errors,
+photocopier noise, screen-print texture and slightly worn edges.
+
+Colors are extremely limited:
+dirty off-white paper,
+deep black,
+signal red,
+emergency green.
+
+NO glossy graphics.
+NO polished 3D.
+NO photorealistic environments.
+NO gradients.
+NO cinematic lighting.
+
+The entire video feels like a stack of old warning posters
+being violently animated to music.
+
+────────────────────────
+0:00–0:01.5
+
+BLACK SCREEN.
+
+A single sharp analog CLICK.
+
+SMASH CUT:
+
+A huge worn RED STOP SIGN fills almost the entire frame.
+
+White printed letters:
+
+STOP
+
+The image has visible paper texture and imperfect ink.
+
+Immediately, a thick rough BLACK marker stroke violently crosses
+through the word STOP.
+
+The marker stroke forms the handwritten word:
+
+START
+
+SCRATCH!
+
+The marker movement produces a loud dry marker-scraping sound.
+
+Camera performs a tiny aggressive punch-in.
+
+BASS HIT.
+
+────────────────────────
+0:01.5–0:03.0
+
+The red STOP sign suddenly splits vertically into several flat pieces.
+
+CLACK!
+
+The pieces slide violently off-screen.
+
+Underneath is an EMERGENCY GREEN poster.
+
+A simplified BLACK human pictogram bursts through
+a WHITE rectangular doorway.
+
+A gigantic WHITE ARROW points right.
+
+The pictogram runs rapidly toward the arrow.
+
+Three black horizontal speed lines appear behind the figure.
+
+Huge black typography suddenly drops from above:
+
+RUN
+
+The letters are so large that parts of them are cropped by the frame.
+
+KICK — CLICK — KICK.
+
+────────────────────────
+0:03.0–0:04.7
+
+WHIP CUT following the arrow.
+
+The entire frame becomes dirty OFF-WHITE.
+
+Gigantic BLACK typography flies past the camera:
+
+NO
+
+SMASH CUT.
+
+GO
+
+SMASH CUT.
+
+BACK.
+
+Each word occupies nearly the entire screen.
+
+NO.
+GO.
+BACK.
+
+Each word appears exactly on a heavy percussion hit.
+
+BOOM.
+BOOM.
+BOOM.
+
+Letters slightly jitter like imperfect mechanical printing.
+
+A RED diagonal warning stripe slices across the composition.
+
+────────────────────────
+0:04.7–0:06.0
+
+The red stripe becomes a giant RED ARROW.
+
+The arrow shoots rapidly to the right.
+
+The camera follows it.
+
+It crashes into a BLACK geometric wall.
+
+CRACK!
+
+The wall fractures like torn printed paper.
+
+Behind the wall is an intense GREEN field.
+
+The running pictogram jumps through the opening.
+
+For three frames, huge typography flashes:
+
+TAKE
+
+THE
+
+RISK
+
+Very fast.
+Almost subliminal.
+
+────────────────────────
+0:06.0–0:07.0
+
+HARD CUT.
+
+Dirty off-white poster background.
+
+Gigantic condensed BLACK typography fills the frame:
+
+RISK
+
+A smaller line above:
+
+TAKE THE
+
+The word RISK extends beyond the left and right edges,
+aggressively cropped.
+
+A small running exit pictogram sits underneath.
+
+One RED arrow points toward the edge of frame.
+
+Everything suddenly freezes.
+
+Final enormous distorted bass impact:
+
+BOOM.
+
+A tiny photocopier click.
+
+CUT TO BLACK.
+
+────────────────────────
+MOTION LANGUAGE:
+
+Extremely fast graphic editing.
+
+Hard cuts.
+Smash cuts.
+Directional wipes created by arrows.
+Typography used as transitions.
+Poster layers ripping away to reveal new compositions.
+Match cuts between geometric shapes.
+Sudden punch-ins.
+Single-frame flashes.
+Mechanical typography movement.
+
+Every transition must feel physically connected to
+the graphic element from the previous shot.
+
+NO dissolves.
+NO smooth cinematic transitions.
+
+Typography and symbols should frequently extend outside the frame.
+
+Composition should feel intentionally uncomfortable,
+bold and confrontational.
+
+────────────────────────
+AUDIO:
+
+Original 7-second minimal industrial electronic beat.
+
+Approximately 125–135 BPM.
+
+Deep distorted kick.
+Dry mechanical clicks.
+Short analog bass impacts.
+Paper ripping.
+Marker scratching.
+Photocopier sounds.
+Metallic clacks.
+
+No vocals.
+No melody-heavy soundtrack.
+No orchestral music.
+
+Sound effects must synchronize precisely with
+typography appearances, cuts, arrows and impacts.
+
+The soundtrack should feel like experimental fashion advertising
+mixed with an underground graphic-design ident.
+
+────────────────────────
+CRITICAL VISUAL CONSISTENCY:
+
+Maintain the same distressed analog-print aesthetic in every shot.
+
+Typography must remain extremely bold,
+black,
+geometric,
+oversized,
+and intentionally cropped.
+
+Maintain only:
+BLACK
+OFF-WHITE
+SIGNAL RED
+EMERGENCY GREEN.
+
+Every frame should look strong enough to exist independently
+as a printed graphic-design poster.
+
+STRICTLY AVOID:
+
+photorealism,
+3D CGI,
+glossy motion graphics,
+neon effects,
+realistic humans,
+detailed faces,
+realistic environments,
+complex backgrounds,
+lens flare,
+depth of field,
+soft gradients,
+cute animation,
+corporate presentation graphics,
+smooth futuristic UI,
+random colors,
+decorative illustration.
